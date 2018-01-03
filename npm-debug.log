@@ -34,34 +34,34 @@
 24 silly mapToRegistry uri https://registry.npmjs.org/grunt-contrib-qunit
 25 verbose request uri https://registry.npmjs.org/grunt-contrib-qunit
 26 verbose request no auth needed
-27 info attempt registry request try #1 at 10:52:38 AM
-28 verbose request id 8e491179cb37d9a9
+27 info attempt registry request try #1 at 12:37:12 PM
+28 verbose request id bbde44552bb2d669
 29 verbose etag "59632a95-d793"
 30 verbose lastModified Mon, 10 Jul 2017 7:19:49 GMT
 31 http request GET https://registry.npmjs.org/grunt-contrib-qunit
 32 http 304 https://registry.npmjs.org/grunt-contrib-qunit
-33 verbose headers { date: 'Wed, 03 Jan 2018 15:52:38 GMT',
+33 verbose headers { date: 'Wed, 03 Jan 2018 17:37:12 GMT',
 33 verbose headers   via: '1.1 varnish',
 33 verbose headers   'cache-control': 'max-age=300',
 33 verbose headers   etag: '"59632a95-d793"',
-33 verbose headers   age: '5549',
+33 verbose headers   age: '11823',
 33 verbose headers   connection: 'keep-alive',
-33 verbose headers   'x-served-by': 'cache-jfk8129-JFK',
+33 verbose headers   'x-served-by': 'cache-jfk8126-JFK',
 33 verbose headers   'x-cache': 'HIT',
 33 verbose headers   'x-cache-hits': '1',
-33 verbose headers   'x-timer': 'S1514994759.700108,VS0,VE0',
+33 verbose headers   'x-timer': 'S1515001033.526227,VS0,VE1',
 33 verbose headers   vary: 'Accept-Encoding, Accept' }
 34 silly get cb [ 304,
-34 silly get   { date: 'Wed, 03 Jan 2018 15:52:38 GMT',
+34 silly get   { date: 'Wed, 03 Jan 2018 17:37:12 GMT',
 34 silly get     via: '1.1 varnish',
 34 silly get     'cache-control': 'max-age=300',
 34 silly get     etag: '"59632a95-d793"',
-34 silly get     age: '5549',
+34 silly get     age: '11823',
 34 silly get     connection: 'keep-alive',
-34 silly get     'x-served-by': 'cache-jfk8129-JFK',
+34 silly get     'x-served-by': 'cache-jfk8126-JFK',
 34 silly get     'x-cache': 'HIT',
 34 silly get     'x-cache-hits': '1',
-34 silly get     'x-timer': 'S1514994759.700108,VS0,VE0',
+34 silly get     'x-timer': 'S1515001033.526227,VS0,VE1',
 34 silly get     vary: 'Accept-Encoding, Accept' } ]
 35 verbose etag https://registry.npmjs.org/grunt-contrib-qunit from cache
 36 verbose get saving grunt-contrib-qunit to C:\Users\jbearega\AppData\Roaming\npm-cache\registry.npmjs.org\grunt-contrib-qunit\.cache.json
@@ -141,33 +141,33 @@
 65 silly mapToRegistry uri https://registry.npmjs.org/grunt-lib-phantomjs
 66 verbose request uri https://registry.npmjs.org/grunt-lib-phantomjs
 67 verbose request no auth needed
-68 info attempt registry request try #1 at 10:52:38 AM
+68 info attempt registry request try #1 at 12:37:12 PM
 69 verbose etag "57348030-76ef"
 70 verbose lastModified Thu, 12 May 2016 13:08:00 GMT
 71 http request GET https://registry.npmjs.org/grunt-lib-phantomjs
 72 http 304 https://registry.npmjs.org/grunt-lib-phantomjs
-73 verbose headers { date: 'Wed, 03 Jan 2018 15:52:38 GMT',
+73 verbose headers { date: 'Wed, 03 Jan 2018 17:37:12 GMT',
 73 verbose headers   via: '1.1 varnish',
 73 verbose headers   'cache-control': 'max-age=300',
 73 verbose headers   etag: '"57348030-76ef"',
-73 verbose headers   age: '6665',
+73 verbose headers   age: '12938',
 73 verbose headers   connection: 'keep-alive',
-73 verbose headers   'x-served-by': 'cache-jfk8129-JFK',
+73 verbose headers   'x-served-by': 'cache-jfk8126-JFK',
 73 verbose headers   'x-cache': 'HIT',
 73 verbose headers   'x-cache-hits': '1',
-73 verbose headers   'x-timer': 'S1514994759.899437,VS0,VE1',
+73 verbose headers   'x-timer': 'S1515001033.770751,VS0,VE0',
 73 verbose headers   vary: 'Accept-Encoding, Accept' }
 74 silly get cb [ 304,
-74 silly get   { date: 'Wed, 03 Jan 2018 15:52:38 GMT',
+74 silly get   { date: 'Wed, 03 Jan 2018 17:37:12 GMT',
 74 silly get     via: '1.1 varnish',
 74 silly get     'cache-control': 'max-age=300',
 74 silly get     etag: '"57348030-76ef"',
-74 silly get     age: '6665',
+74 silly get     age: '12938',
 74 silly get     connection: 'keep-alive',
-74 silly get     'x-served-by': 'cache-jfk8129-JFK',
+74 silly get     'x-served-by': 'cache-jfk8126-JFK',
 74 silly get     'x-cache': 'HIT',
 74 silly get     'x-cache-hits': '1',
-74 silly get     'x-timer': 'S1514994759.899437,VS0,VE1',
+74 silly get     'x-timer': 'S1515001033.770751,VS0,VE0',
 74 silly get     vary: 'Accept-Encoding, Accept' } ]
 75 verbose etag https://registry.npmjs.org/grunt-lib-phantomjs from cache
 76 verbose get saving grunt-lib-phantomjs to C:\Users\jbearega\AppData\Roaming\npm-cache\registry.npmjs.org\grunt-lib-phantomjs\.cache.json
@@ -253,39 +253,39 @@
 111 silly mapToRegistry uri https://registry.npmjs.org/rimraf
 112 verbose request uri https://registry.npmjs.org/phantomjs-prebuilt
 113 verbose request no auth needed
-114 info attempt registry request try #1 at 10:52:38 AM
+114 info attempt registry request try #1 at 12:37:12 PM
 115 verbose etag "5a38c1d3-a7af"
 116 verbose lastModified Tue, 19 Dec 2017 7:37:55 GMT
 117 http request GET https://registry.npmjs.org/phantomjs-prebuilt
 118 verbose request uri https://registry.npmjs.org/rimraf
 119 verbose request no auth needed
-120 info attempt registry request try #1 at 10:52:38 AM
+120 info attempt registry request try #1 at 12:37:12 PM
 121 verbose etag "5a4b707f-ed76"
 122 verbose lastModified Tue, 2 Jan 2018 11:43:59 GMT
 123 http request GET https://registry.npmjs.org/rimraf
 124 http 304 https://registry.npmjs.org/phantomjs-prebuilt
-125 verbose headers { date: 'Wed, 03 Jan 2018 15:52:38 GMT',
+125 verbose headers { date: 'Wed, 03 Jan 2018 17:37:12 GMT',
 125 verbose headers   via: '1.1 varnish',
 125 verbose headers   'cache-control': 'max-age=300',
 125 verbose headers   etag: '"5a38c1d3-a7af"',
-125 verbose headers   age: '10108',
+125 verbose headers   age: '1977',
 125 verbose headers   connection: 'keep-alive',
-125 verbose headers   'x-served-by': 'cache-jfk8129-JFK',
+125 verbose headers   'x-served-by': 'cache-jfk8126-JFK',
 125 verbose headers   'x-cache': 'HIT',
-125 verbose headers   'x-cache-hits': '17',
-125 verbose headers   'x-timer': 'S1514994759.951576,VS0,VE0',
+125 verbose headers   'x-cache-hits': '8',
+125 verbose headers   'x-timer': 'S1515001033.842048,VS0,VE0',
 125 verbose headers   vary: 'Accept-Encoding, Accept' }
 126 silly get cb [ 304,
-126 silly get   { date: 'Wed, 03 Jan 2018 15:52:38 GMT',
+126 silly get   { date: 'Wed, 03 Jan 2018 17:37:12 GMT',
 126 silly get     via: '1.1 varnish',
 126 silly get     'cache-control': 'max-age=300',
 126 silly get     etag: '"5a38c1d3-a7af"',
-126 silly get     age: '10108',
+126 silly get     age: '1977',
 126 silly get     connection: 'keep-alive',
-126 silly get     'x-served-by': 'cache-jfk8129-JFK',
+126 silly get     'x-served-by': 'cache-jfk8126-JFK',
 126 silly get     'x-cache': 'HIT',
-126 silly get     'x-cache-hits': '17',
-126 silly get     'x-timer': 'S1514994759.951576,VS0,VE0',
+126 silly get     'x-cache-hits': '8',
+126 silly get     'x-timer': 'S1515001033.842048,VS0,VE0',
 126 silly get     vary: 'Accept-Encoding, Accept' } ]
 127 verbose etag https://registry.npmjs.org/phantomjs-prebuilt from cache
 128 verbose get saving phantomjs-prebuilt to C:\Users\jbearega\AppData\Roaming\npm-cache\registry.npmjs.org\phantomjs-prebuilt\.cache.json
@@ -349,28 +349,28 @@
 150 verbose correctMkdir C:\Users\jbearega\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
 151 verbose afterAdd C:\Users\jbearega\AppData\Roaming\npm-cache\phantomjs-prebuilt\2.1.16\package\package.json written
 152 http 304 https://registry.npmjs.org/rimraf
-153 verbose headers { date: 'Wed, 03 Jan 2018 15:52:38 GMT',
+153 verbose headers { date: 'Wed, 03 Jan 2018 17:37:12 GMT',
 153 verbose headers   via: '1.1 varnish',
 153 verbose headers   'cache-control': 'max-age=300',
 153 verbose headers   etag: '"5a4b707f-ed76"',
-153 verbose headers   age: '452',
+153 verbose headers   age: '6726',
 153 verbose headers   connection: 'keep-alive',
-153 verbose headers   'x-served-by': 'cache-jfk8122-JFK',
+153 verbose headers   'x-served-by': 'cache-jfk8134-JFK',
 153 verbose headers   'x-cache': 'HIT',
-153 verbose headers   'x-cache-hits': '15',
-153 verbose headers   'x-timer': 'S1514994759.995491,VS0,VE0',
+153 verbose headers   'x-cache-hits': '220',
+153 verbose headers   'x-timer': 'S1515001033.878092,VS0,VE0',
 153 verbose headers   vary: 'Accept-Encoding, Accept' }
 154 silly get cb [ 304,
-154 silly get   { date: 'Wed, 03 Jan 2018 15:52:38 GMT',
+154 silly get   { date: 'Wed, 03 Jan 2018 17:37:12 GMT',
 154 silly get     via: '1.1 varnish',
 154 silly get     'cache-control': 'max-age=300',
 154 silly get     etag: '"5a4b707f-ed76"',
-154 silly get     age: '452',
+154 silly get     age: '6726',
 154 silly get     connection: 'keep-alive',
-154 silly get     'x-served-by': 'cache-jfk8122-JFK',
+154 silly get     'x-served-by': 'cache-jfk8134-JFK',
 154 silly get     'x-cache': 'HIT',
-154 silly get     'x-cache-hits': '15',
-154 silly get     'x-timer': 'S1514994759.995491,VS0,VE0',
+154 silly get     'x-cache-hits': '220',
+154 silly get     'x-timer': 'S1515001033.878092,VS0,VE0',
 154 silly get     vary: 'Accept-Encoding, Accept' } ]
 155 verbose etag https://registry.npmjs.org/rimraf from cache
 156 verbose get saving rimraf to C:\Users\jbearega\AppData\Roaming\npm-cache\registry.npmjs.org\rimraf\.cache.json
@@ -547,684 +547,684 @@
 220 silly mapToRegistry   spec: 'latest',
 220 silly mapToRegistry   type: 'tag' }
 221 silly mapToRegistry uri https://registry.npmjs.org/request-progress
-222 verbose request uri https://registry.npmjs.org/es6-promise
+222 verbose request uri https://registry.npmjs.org/hasha
 223 verbose request no auth needed
-224 info attempt registry request try #1 at 10:52:39 AM
-225 verbose etag "5a4ca5fc-10644"
-226 verbose lastModified Wed, 3 Jan 2018 9:44:28 GMT
-227 http request GET https://registry.npmjs.org/es6-promise
+224 info attempt registry request try #1 at 12:37:12 PM
+225 verbose etag "5a48afc5-39c2"
+226 verbose lastModified Sun, 31 Dec 2017 9:37:09 GMT
+227 http request GET https://registry.npmjs.org/hasha
 228 verbose request uri https://registry.npmjs.org/extract-zip
 229 verbose request no auth needed
-230 info attempt registry request try #1 at 10:52:39 AM
+230 info attempt registry request try #1 at 12:37:12 PM
 231 verbose etag "5a09c926-6927"
 232 verbose lastModified Mon, 13 Nov 2017 16:32:38 GMT
 233 http request GET https://registry.npmjs.org/extract-zip
 234 verbose request uri https://registry.npmjs.org/progress
 235 verbose request no auth needed
-236 info attempt registry request try #1 at 10:52:39 AM
+236 info attempt registry request try #1 at 12:37:12 PM
 237 verbose etag "5a3d2e5a-5155"
 238 verbose lastModified Fri, 22 Dec 2017 16:10:02 GMT
 239 http request GET https://registry.npmjs.org/progress
-240 verbose request uri https://registry.npmjs.org/request-progress
+240 verbose request uri https://registry.npmjs.org/fs-extra
 241 verbose request no auth needed
-242 info attempt registry request try #1 at 10:52:39 AM
-243 verbose etag "5a27b3f3-615a"
-244 verbose lastModified Wed, 6 Dec 2017 9:10:11 GMT
-245 http request GET https://registry.npmjs.org/request-progress
-246 verbose request uri https://registry.npmjs.org/fs-extra
+242 info attempt registry request try #1 at 12:37:12 PM
+243 verbose etag "5a4cdffa-2259e"
+244 verbose lastModified Wed, 3 Jan 2018 13:51:54 GMT
+245 http request GET https://registry.npmjs.org/fs-extra
+246 verbose request uri https://registry.npmjs.org/es6-promise
 247 verbose request no auth needed
-248 info attempt registry request try #1 at 10:52:39 AM
-249 verbose etag "5a4cdffa-2259e"
-250 verbose lastModified Wed, 3 Jan 2018 13:51:54 GMT
-251 http request GET https://registry.npmjs.org/fs-extra
-252 verbose request uri https://registry.npmjs.org/kew
+248 info attempt registry request try #1 at 12:37:12 PM
+249 verbose etag "5a4ca5fc-10644"
+250 verbose lastModified Wed, 3 Jan 2018 9:44:28 GMT
+251 http request GET https://registry.npmjs.org/es6-promise
+252 verbose request uri https://registry.npmjs.org/request-progress
 253 verbose request no auth needed
-254 info attempt registry request try #1 at 10:52:39 AM
-255 verbose etag "59d2b25c-89ff"
-256 verbose lastModified Mon, 2 Oct 2017 21:40:44 GMT
-257 http request GET https://registry.npmjs.org/kew
-258 verbose request uri https://registry.npmjs.org/hasha
+254 info attempt registry request try #1 at 12:37:12 PM
+255 verbose etag "5a27b3f3-615a"
+256 verbose lastModified Wed, 6 Dec 2017 9:10:11 GMT
+257 http request GET https://registry.npmjs.org/request-progress
+258 verbose request uri https://registry.npmjs.org/kew
 259 verbose request no auth needed
-260 info attempt registry request try #1 at 10:52:39 AM
-261 verbose etag "5a48afc5-39c2"
-262 verbose lastModified Sun, 31 Dec 2017 9:37:09 GMT
-263 http request GET https://registry.npmjs.org/hasha
-264 http 304 https://registry.npmjs.org/es6-promise
-265 verbose headers { date: 'Wed, 03 Jan 2018 15:52:39 GMT',
+260 info attempt registry request try #1 at 12:37:12 PM
+261 verbose etag "59d2b25c-89ff"
+262 verbose lastModified Mon, 2 Oct 2017 21:40:44 GMT
+263 http request GET https://registry.npmjs.org/kew
+264 http 304 https://registry.npmjs.org/hasha
+265 verbose headers { date: 'Wed, 03 Jan 2018 17:37:12 GMT',
 265 verbose headers   via: '1.1 varnish',
 265 verbose headers   'cache-control': 'max-age=300',
-265 verbose headers   etag: '"5a4ca5fc-10644"',
-265 verbose headers   age: '7591',
+265 verbose headers   etag: '"5a48afc5-39c2"',
+265 verbose headers   age: '13307',
 265 verbose headers   connection: 'keep-alive',
-265 verbose headers   'x-served-by': 'cache-jfk8129-JFK',
+265 verbose headers   'x-served-by': 'cache-jfk8126-JFK',
 265 verbose headers   'x-cache': 'HIT',
-265 verbose headers   'x-cache-hits': '42',
-265 verbose headers   'x-timer': 'S1514994759.050800,VS0,VE0',
+265 verbose headers   'x-cache-hits': '24',
+265 verbose headers   'x-timer': 'S1515001033.925574,VS0,VE0',
 265 verbose headers   vary: 'Accept-Encoding, Accept' }
 266 silly get cb [ 304,
-266 silly get   { date: 'Wed, 03 Jan 2018 15:52:39 GMT',
+266 silly get   { date: 'Wed, 03 Jan 2018 17:37:12 GMT',
 266 silly get     via: '1.1 varnish',
 266 silly get     'cache-control': 'max-age=300',
-266 silly get     etag: '"5a4ca5fc-10644"',
-266 silly get     age: '7591',
+266 silly get     etag: '"5a48afc5-39c2"',
+266 silly get     age: '13307',
 266 silly get     connection: 'keep-alive',
-266 silly get     'x-served-by': 'cache-jfk8129-JFK',
+266 silly get     'x-served-by': 'cache-jfk8126-JFK',
 266 silly get     'x-cache': 'HIT',
-266 silly get     'x-cache-hits': '42',
-266 silly get     'x-timer': 'S1514994759.050800,VS0,VE0',
+266 silly get     'x-cache-hits': '24',
+266 silly get     'x-timer': 'S1515001033.925574,VS0,VE0',
 266 silly get     vary: 'Accept-Encoding, Accept' } ]
-267 verbose etag https://registry.npmjs.org/es6-promise from cache
-268 verbose get saving es6-promise to C:\Users\jbearega\AppData\Roaming\npm-cache\registry.npmjs.org\es6-promise\.cache.json
+267 verbose etag https://registry.npmjs.org/hasha from cache
+268 verbose get saving hasha to C:\Users\jbearega\AppData\Roaming\npm-cache\registry.npmjs.org\hasha\.cache.json
 269 verbose correctMkdir C:\Users\jbearega\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
 270 http 304 https://registry.npmjs.org/extract-zip
-271 verbose headers { date: 'Wed, 03 Jan 2018 15:52:39 GMT',
+271 verbose headers { date: 'Wed, 03 Jan 2018 17:37:12 GMT',
 271 verbose headers   via: '1.1 varnish',
 271 verbose headers   'cache-control': 'max-age=300',
 271 verbose headers   etag: '"5a09c926-6927"',
-271 verbose headers   age: '4936',
+271 verbose headers   age: '11210',
 271 verbose headers   connection: 'keep-alive',
-271 verbose headers   'x-served-by': 'cache-jfk8122-JFK',
+271 verbose headers   'x-served-by': 'cache-jfk8134-JFK',
 271 verbose headers   'x-cache': 'HIT',
-271 verbose headers   'x-cache-hits': '16',
-271 verbose headers   'x-timer': 'S1514994759.050712,VS0,VE0',
+271 verbose headers   'x-cache-hits': '30',
+271 verbose headers   'x-timer': 'S1515001033.925580,VS0,VE0',
 271 verbose headers   vary: 'Accept-Encoding, Accept' }
 272 silly get cb [ 304,
-272 silly get   { date: 'Wed, 03 Jan 2018 15:52:39 GMT',
+272 silly get   { date: 'Wed, 03 Jan 2018 17:37:12 GMT',
 272 silly get     via: '1.1 varnish',
 272 silly get     'cache-control': 'max-age=300',
 272 silly get     etag: '"5a09c926-6927"',
-272 silly get     age: '4936',
+272 silly get     age: '11210',
 272 silly get     connection: 'keep-alive',
-272 silly get     'x-served-by': 'cache-jfk8122-JFK',
+272 silly get     'x-served-by': 'cache-jfk8134-JFK',
 272 silly get     'x-cache': 'HIT',
-272 silly get     'x-cache-hits': '16',
-272 silly get     'x-timer': 'S1514994759.050712,VS0,VE0',
+272 silly get     'x-cache-hits': '30',
+272 silly get     'x-timer': 'S1515001033.925580,VS0,VE0',
 272 silly get     vary: 'Accept-Encoding, Accept' } ]
 273 verbose etag https://registry.npmjs.org/extract-zip from cache
 274 verbose get saving extract-zip to C:\Users\jbearega\AppData\Roaming\npm-cache\registry.npmjs.org\extract-zip\.cache.json
 275 verbose correctMkdir C:\Users\jbearega\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
-276 silly resolveWithNewModule extract-zip@1.6.6 checking installable status
-277 silly cache add args [ 'extract-zip@^1.6.5', null ]
-278 verbose cache add spec extract-zip@^1.6.5
+276 silly resolveWithNewModule hasha@2.2.0 checking installable status
+277 silly cache add args [ 'hasha@^2.2.0', null ]
+278 verbose cache add spec hasha@^2.2.0
 279 silly cache add parsed spec Result {
-279 silly cache add   raw: 'extract-zip@^1.6.5',
+279 silly cache add   raw: 'hasha@^2.2.0',
 279 silly cache add   scope: null,
-279 silly cache add   escapedName: 'extract-zip',
-279 silly cache add   name: 'extract-zip',
-279 silly cache add   rawSpec: '^1.6.5',
-279 silly cache add   spec: '>=1.6.5 <2.0.0',
+279 silly cache add   escapedName: 'hasha',
+279 silly cache add   name: 'hasha',
+279 silly cache add   rawSpec: '^2.2.0',
+279 silly cache add   spec: '>=2.2.0 <3.0.0',
 279 silly cache add   type: 'range' }
-280 silly addNamed extract-zip@>=1.6.5 <2.0.0
-281 verbose addNamed ">=1.6.5 <2.0.0" is a valid semver range for extract-zip
-282 silly addNameRange { name: 'extract-zip', range: '>=1.6.5 <2.0.0', hasData: false }
-283 silly mapToRegistry name extract-zip
+280 silly addNamed hasha@>=2.2.0 <3.0.0
+281 verbose addNamed ">=2.2.0 <3.0.0" is a valid semver range for hasha
+282 silly addNameRange { name: 'hasha', range: '>=2.2.0 <3.0.0', hasData: false }
+283 silly mapToRegistry name hasha
 284 silly mapToRegistry using default registry
 285 silly mapToRegistry registry https://registry.npmjs.org/
 286 silly mapToRegistry data Result {
-286 silly mapToRegistry   raw: 'extract-zip',
+286 silly mapToRegistry   raw: 'hasha',
 286 silly mapToRegistry   scope: null,
-286 silly mapToRegistry   escapedName: 'extract-zip',
-286 silly mapToRegistry   name: 'extract-zip',
+286 silly mapToRegistry   escapedName: 'hasha',
+286 silly mapToRegistry   name: 'hasha',
 286 silly mapToRegistry   rawSpec: '',
 286 silly mapToRegistry   spec: 'latest',
 286 silly mapToRegistry   type: 'tag' }
-287 silly mapToRegistry uri https://registry.npmjs.org/extract-zip
-288 verbose addNameRange registry:https://registry.npmjs.org/extract-zip not in flight; fetching
-289 silly resolveWithNewModule es6-promise@4.2.2 checking installable status
-290 silly cache add args [ 'es6-promise@^4.0.3', null ]
-291 verbose cache add spec es6-promise@^4.0.3
+287 silly mapToRegistry uri https://registry.npmjs.org/hasha
+288 verbose addNameRange registry:https://registry.npmjs.org/hasha not in flight; fetching
+289 silly resolveWithNewModule extract-zip@1.6.6 checking installable status
+290 silly cache add args [ 'extract-zip@^1.6.5', null ]
+291 verbose cache add spec extract-zip@^1.6.5
 292 silly cache add parsed spec Result {
-292 silly cache add   raw: 'es6-promise@^4.0.3',
+292 silly cache add   raw: 'extract-zip@^1.6.5',
 292 silly cache add   scope: null,
-292 silly cache add   escapedName: 'es6-promise',
-292 silly cache add   name: 'es6-promise',
-292 silly cache add   rawSpec: '^4.0.3',
-292 silly cache add   spec: '>=4.0.3 <5.0.0',
+292 silly cache add   escapedName: 'extract-zip',
+292 silly cache add   name: 'extract-zip',
+292 silly cache add   rawSpec: '^1.6.5',
+292 silly cache add   spec: '>=1.6.5 <2.0.0',
 292 silly cache add   type: 'range' }
-293 silly addNamed es6-promise@>=4.0.3 <5.0.0
-294 verbose addNamed ">=4.0.3 <5.0.0" is a valid semver range for es6-promise
-295 silly addNameRange { name: 'es6-promise', range: '>=4.0.3 <5.0.0', hasData: false }
-296 silly mapToRegistry name es6-promise
+293 silly addNamed extract-zip@>=1.6.5 <2.0.0
+294 verbose addNamed ">=1.6.5 <2.0.0" is a valid semver range for extract-zip
+295 silly addNameRange { name: 'extract-zip', range: '>=1.6.5 <2.0.0', hasData: false }
+296 silly mapToRegistry name extract-zip
 297 silly mapToRegistry using default registry
 298 silly mapToRegistry registry https://registry.npmjs.org/
 299 silly mapToRegistry data Result {
-299 silly mapToRegistry   raw: 'es6-promise',
+299 silly mapToRegistry   raw: 'extract-zip',
 299 silly mapToRegistry   scope: null,
-299 silly mapToRegistry   escapedName: 'es6-promise',
-299 silly mapToRegistry   name: 'es6-promise',
+299 silly mapToRegistry   escapedName: 'extract-zip',
+299 silly mapToRegistry   name: 'extract-zip',
 299 silly mapToRegistry   rawSpec: '',
 299 silly mapToRegistry   spec: 'latest',
 299 silly mapToRegistry   type: 'tag' }
-300 silly mapToRegistry uri https://registry.npmjs.org/es6-promise
-301 verbose addNameRange registry:https://registry.npmjs.org/es6-promise not in flight; fetching
-302 verbose get https://registry.npmjs.org/extract-zip not expired, no request
-303 silly addNameRange number 2 { name: 'extract-zip', range: '>=1.6.5 <2.0.0', hasData: true }
-304 silly addNameRange versions [ 'extract-zip',
+300 silly mapToRegistry uri https://registry.npmjs.org/extract-zip
+301 verbose addNameRange registry:https://registry.npmjs.org/extract-zip not in flight; fetching
+302 verbose get https://registry.npmjs.org/hasha not expired, no request
+303 silly addNameRange number 2 { name: 'hasha', range: '>=2.2.0 <3.0.0', hasData: true }
+304 silly addNameRange versions [ 'hasha',
 304 silly addNameRange   [ '1.0.0',
 304 silly addNameRange     '1.0.1',
-304 silly addNameRange     '1.0.2',
-304 silly addNameRange     '1.0.3',
-304 silly addNameRange     '1.1.0',
-304 silly addNameRange     '1.1.1',
-304 silly addNameRange     '1.1.2',
-304 silly addNameRange     '1.2.0',
-304 silly addNameRange     '1.3.0',
-304 silly addNameRange     '1.4.0',
-304 silly addNameRange     '1.4.1',
-304 silly addNameRange     '1.5.0',
-304 silly addNameRange     '1.6.0',
-304 silly addNameRange     '1.6.1',
-304 silly addNameRange     '1.6.2',
-304 silly addNameRange     '1.6.3',
-304 silly addNameRange     '1.6.4',
-304 silly addNameRange     '1.6.5',
-304 silly addNameRange     '1.6.6' ] ]
-305 silly addNamed extract-zip@1.6.6
-306 verbose addNamed "1.6.6" is a plain semver version for extract-zip
-307 verbose get https://registry.npmjs.org/es6-promise not expired, no request
-308 silly addNameRange number 2 { name: 'es6-promise', range: '>=4.0.3 <5.0.0', hasData: true }
-309 silly addNameRange versions [ 'es6-promise',
-309 silly addNameRange   [ '0.1.0',
-309 silly addNameRange     '0.1.1',
-309 silly addNameRange     '0.1.2',
-309 silly addNameRange     '1.0.0',
-309 silly addNameRange     '2.0.0',
-309 silly addNameRange     '2.0.1',
-309 silly addNameRange     '2.1.0',
-309 silly addNameRange     '2.1.1',
-309 silly addNameRange     '2.2.0',
-309 silly addNameRange     '2.3.0',
-309 silly addNameRange     '3.0.0',
-309 silly addNameRange     '3.0.1',
-309 silly addNameRange     '3.0.2',
-309 silly addNameRange     '3.1.2',
-309 silly addNameRange     '3.2.1',
-309 silly addNameRange     '3.3.0',
-309 silly addNameRange     '3.3.1',
-309 silly addNameRange     '4.0.0',
-309 silly addNameRange     '4.0.1',
-309 silly addNameRange     '4.0.2',
-309 silly addNameRange     '4.0.3',
-309 silly addNameRange     '4.0.4',
-309 silly addNameRange     '4.0.5',
-309 silly addNameRange     '4.1.0',
-309 silly addNameRange     '4.1.1',
-309 silly addNameRange     '4.2.0',
-309 silly addNameRange     '4.2.1',
-309 silly addNameRange     '4.2.2' ] ]
-310 silly addNamed es6-promise@4.2.2
-311 verbose addNamed "4.2.2" is a plain semver version for es6-promise
-312 silly cache afterAdd es6-promise@4.2.2
-313 verbose afterAdd C:\Users\jbearega\AppData\Roaming\npm-cache\es6-promise\4.2.2\package\package.json not in flight; writing
+304 silly addNameRange     '2.0.0',
+304 silly addNameRange     '2.0.1',
+304 silly addNameRange     '2.0.2',
+304 silly addNameRange     '2.1.0',
+304 silly addNameRange     '2.2.0',
+304 silly addNameRange     '3.0.0' ] ]
+305 silly addNamed hasha@2.2.0
+306 verbose addNamed "2.2.0" is a plain semver version for hasha
+307 verbose get https://registry.npmjs.org/extract-zip not expired, no request
+308 silly addNameRange number 2 { name: 'extract-zip', range: '>=1.6.5 <2.0.0', hasData: true }
+309 silly addNameRange versions [ 'extract-zip',
+309 silly addNameRange   [ '1.0.0',
+309 silly addNameRange     '1.0.1',
+309 silly addNameRange     '1.0.2',
+309 silly addNameRange     '1.0.3',
+309 silly addNameRange     '1.1.0',
+309 silly addNameRange     '1.1.1',
+309 silly addNameRange     '1.1.2',
+309 silly addNameRange     '1.2.0',
+309 silly addNameRange     '1.3.0',
+309 silly addNameRange     '1.4.0',
+309 silly addNameRange     '1.4.1',
+309 silly addNameRange     '1.5.0',
+309 silly addNameRange     '1.6.0',
+309 silly addNameRange     '1.6.1',
+309 silly addNameRange     '1.6.2',
+309 silly addNameRange     '1.6.3',
+309 silly addNameRange     '1.6.4',
+309 silly addNameRange     '1.6.5',
+309 silly addNameRange     '1.6.6' ] ]
+310 silly addNamed extract-zip@1.6.6
+311 verbose addNamed "1.6.6" is a plain semver version for extract-zip
+312 silly cache afterAdd hasha@2.2.0
+313 verbose afterAdd C:\Users\jbearega\AppData\Roaming\npm-cache\hasha\2.2.0\package\package.json not in flight; writing
 314 verbose correctMkdir C:\Users\jbearega\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
 315 silly cache afterAdd extract-zip@1.6.6
 316 verbose afterAdd C:\Users\jbearega\AppData\Roaming\npm-cache\extract-zip\1.6.6\package\package.json not in flight; writing
 317 verbose correctMkdir C:\Users\jbearega\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
-318 http 304 https://registry.npmjs.org/request-progress
-319 verbose headers { date: 'Wed, 03 Jan 2018 15:52:39 GMT',
-319 verbose headers   via: '1.1 varnish',
-319 verbose headers   'cache-control': 'max-age=300',
-319 verbose headers   etag: '"5a27b3f3-615a"',
-319 verbose headers   age: '7187',
-319 verbose headers   connection: 'keep-alive',
-319 verbose headers   'x-served-by': 'cache-jfk8132-JFK',
-319 verbose headers   'x-cache': 'HIT',
-319 verbose headers   'x-cache-hits': '18',
-319 verbose headers   'x-timer': 'S1514994759.076983,VS0,VE0',
-319 verbose headers   vary: 'Accept-Encoding, Accept' }
-320 silly get cb [ 304,
-320 silly get   { date: 'Wed, 03 Jan 2018 15:52:39 GMT',
-320 silly get     via: '1.1 varnish',
-320 silly get     'cache-control': 'max-age=300',
-320 silly get     etag: '"5a27b3f3-615a"',
-320 silly get     age: '7187',
-320 silly get     connection: 'keep-alive',
-320 silly get     'x-served-by': 'cache-jfk8132-JFK',
-320 silly get     'x-cache': 'HIT',
-320 silly get     'x-cache-hits': '18',
-320 silly get     'x-timer': 'S1514994759.076983,VS0,VE0',
-320 silly get     vary: 'Accept-Encoding, Accept' } ]
-321 verbose etag https://registry.npmjs.org/request-progress from cache
-322 verbose get saving request-progress to C:\Users\jbearega\AppData\Roaming\npm-cache\registry.npmjs.org\request-progress\.cache.json
-323 verbose correctMkdir C:\Users\jbearega\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
-324 http 304 https://registry.npmjs.org/progress
-325 verbose headers { date: 'Wed, 03 Jan 2018 15:52:39 GMT',
-325 verbose headers   via: '1.1 varnish',
-325 verbose headers   'cache-control': 'max-age=300',
-325 verbose headers   etag: '"5a3d2e5a-5155"',
-325 verbose headers   age: '13049',
-325 verbose headers   connection: 'keep-alive',
-325 verbose headers   'x-served-by': 'cache-jfk8125-JFK',
-325 verbose headers   'x-cache': 'HIT',
-325 verbose headers   'x-cache-hits': '188',
-325 verbose headers   'x-timer': 'S1514994759.076919,VS0,VE0',
-325 verbose headers   vary: 'Accept-Encoding, Accept' }
-326 silly get cb [ 304,
-326 silly get   { date: 'Wed, 03 Jan 2018 15:52:39 GMT',
-326 silly get     via: '1.1 varnish',
-326 silly get     'cache-control': 'max-age=300',
-326 silly get     etag: '"5a3d2e5a-5155"',
-326 silly get     age: '13049',
-326 silly get     connection: 'keep-alive',
-326 silly get     'x-served-by': 'cache-jfk8125-JFK',
-326 silly get     'x-cache': 'HIT',
-326 silly get     'x-cache-hits': '188',
-326 silly get     'x-timer': 'S1514994759.076919,VS0,VE0',
-326 silly get     vary: 'Accept-Encoding, Accept' } ]
-327 verbose etag https://registry.npmjs.org/progress from cache
-328 verbose get saving progress to C:\Users\jbearega\AppData\Roaming\npm-cache\registry.npmjs.org\progress\.cache.json
-329 verbose correctMkdir C:\Users\jbearega\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
-330 http 304 https://registry.npmjs.org/fs-extra
-331 verbose headers { date: 'Wed, 03 Jan 2018 15:52:39 GMT',
-331 verbose headers   via: '1.1 varnish',
-331 verbose headers   'cache-control': 'max-age=300',
-331 verbose headers   etag: '"5a4cdffa-2259e"',
-331 verbose headers   age: '7163',
-331 verbose headers   connection: 'keep-alive',
-331 verbose headers   'x-served-by': 'cache-jfk8130-JFK',
-331 verbose headers   'x-cache': 'HIT',
-331 verbose headers   'x-cache-hits': '75',
-331 verbose headers   'x-timer': 'S1514994759.077030,VS0,VE0',
-331 verbose headers   vary: 'Accept-Encoding, Accept' }
-332 silly get cb [ 304,
-332 silly get   { date: 'Wed, 03 Jan 2018 15:52:39 GMT',
-332 silly get     via: '1.1 varnish',
-332 silly get     'cache-control': 'max-age=300',
-332 silly get     etag: '"5a4cdffa-2259e"',
-332 silly get     age: '7163',
-332 silly get     connection: 'keep-alive',
-332 silly get     'x-served-by': 'cache-jfk8130-JFK',
-332 silly get     'x-cache': 'HIT',
-332 silly get     'x-cache-hits': '75',
-332 silly get     'x-timer': 'S1514994759.077030,VS0,VE0',
-332 silly get     vary: 'Accept-Encoding, Accept' } ]
-333 verbose etag https://registry.npmjs.org/fs-extra from cache
-334 verbose get saving fs-extra to C:\Users\jbearega\AppData\Roaming\npm-cache\registry.npmjs.org\fs-extra\.cache.json
-335 verbose correctMkdir C:\Users\jbearega\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
-336 http 304 https://registry.npmjs.org/kew
-337 verbose headers { date: 'Wed, 03 Jan 2018 15:52:39 GMT',
-337 verbose headers   via: '1.1 varnish',
-337 verbose headers   'cache-control': 'max-age=300',
-337 verbose headers   etag: '"59d2b25c-89ff"',
-337 verbose headers   age: '1112',
-337 verbose headers   connection: 'keep-alive',
-337 verbose headers   'x-served-by': 'cache-jfk8123-JFK',
-337 verbose headers   'x-cache': 'HIT',
-337 verbose headers   'x-cache-hits': '5',
-337 verbose headers   'x-timer': 'S1514994759.077453,VS0,VE0',
-337 verbose headers   vary: 'Accept-Encoding, Accept' }
-338 silly get cb [ 304,
-338 silly get   { date: 'Wed, 03 Jan 2018 15:52:39 GMT',
-338 silly get     via: '1.1 varnish',
-338 silly get     'cache-control': 'max-age=300',
-338 silly get     etag: '"59d2b25c-89ff"',
-338 silly get     age: '1112',
-338 silly get     connection: 'keep-alive',
-338 silly get     'x-served-by': 'cache-jfk8123-JFK',
-338 silly get     'x-cache': 'HIT',
-338 silly get     'x-cache-hits': '5',
-338 silly get     'x-timer': 'S1514994759.077453,VS0,VE0',
-338 silly get     vary: 'Accept-Encoding, Accept' } ]
-339 verbose etag https://registry.npmjs.org/kew from cache
-340 verbose get saving kew to C:\Users\jbearega\AppData\Roaming\npm-cache\registry.npmjs.org\kew\.cache.json
-341 verbose correctMkdir C:\Users\jbearega\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
-342 http 304 https://registry.npmjs.org/hasha
-343 verbose headers { date: 'Wed, 03 Jan 2018 15:52:39 GMT',
-343 verbose headers   via: '1.1 varnish',
-343 verbose headers   'cache-control': 'max-age=300',
-343 verbose headers   etag: '"5a48afc5-39c2"',
-343 verbose headers   age: '7033',
-343 verbose headers   connection: 'keep-alive',
-343 verbose headers   'x-served-by': 'cache-jfk8131-JFK',
-343 verbose headers   'x-cache': 'HIT',
-343 verbose headers   'x-cache-hits': '14',
-343 verbose headers   'x-timer': 'S1514994759.079004,VS0,VE0',
-343 verbose headers   vary: 'Accept-Encoding, Accept' }
-344 silly get cb [ 304,
-344 silly get   { date: 'Wed, 03 Jan 2018 15:52:39 GMT',
-344 silly get     via: '1.1 varnish',
-344 silly get     'cache-control': 'max-age=300',
-344 silly get     etag: '"5a48afc5-39c2"',
-344 silly get     age: '7033',
-344 silly get     connection: 'keep-alive',
-344 silly get     'x-served-by': 'cache-jfk8131-JFK',
-344 silly get     'x-cache': 'HIT',
-344 silly get     'x-cache-hits': '14',
-344 silly get     'x-timer': 'S1514994759.079004,VS0,VE0',
-344 silly get     vary: 'Accept-Encoding, Accept' } ]
-345 verbose etag https://registry.npmjs.org/hasha from cache
-346 verbose get saving hasha to C:\Users\jbearega\AppData\Roaming\npm-cache\registry.npmjs.org\hasha\.cache.json
-347 verbose correctMkdir C:\Users\jbearega\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
-348 verbose afterAdd C:\Users\jbearega\AppData\Roaming\npm-cache\extract-zip\1.6.6\package\package.json written
-349 verbose afterAdd C:\Users\jbearega\AppData\Roaming\npm-cache\es6-promise\4.2.2\package\package.json written
-350 silly resolveWithNewModule progress@1.1.8 checking installable status
-351 silly cache add args [ 'progress@^1.1.8', null ]
-352 verbose cache add spec progress@^1.1.8
+318 verbose afterAdd C:\Users\jbearega\AppData\Roaming\npm-cache\hasha\2.2.0\package\package.json written
+319 verbose afterAdd C:\Users\jbearega\AppData\Roaming\npm-cache\extract-zip\1.6.6\package\package.json written
+320 http 304 https://registry.npmjs.org/progress
+321 verbose headers { date: 'Wed, 03 Jan 2018 17:37:12 GMT',
+321 verbose headers   via: '1.1 varnish',
+321 verbose headers   'cache-control': 'max-age=300',
+321 verbose headers   etag: '"5a3d2e5a-5155"',
+321 verbose headers   age: '4921',
+321 verbose headers   connection: 'keep-alive',
+321 verbose headers   'x-served-by': 'cache-jfk8147-JFK',
+321 verbose headers   'x-cache': 'HIT',
+321 verbose headers   'x-cache-hits': '81',
+321 verbose headers   'x-timer': 'S1515001033.965134,VS0,VE0',
+321 verbose headers   vary: 'Accept-Encoding, Accept' }
+322 silly get cb [ 304,
+322 silly get   { date: 'Wed, 03 Jan 2018 17:37:12 GMT',
+322 silly get     via: '1.1 varnish',
+322 silly get     'cache-control': 'max-age=300',
+322 silly get     etag: '"5a3d2e5a-5155"',
+322 silly get     age: '4921',
+322 silly get     connection: 'keep-alive',
+322 silly get     'x-served-by': 'cache-jfk8147-JFK',
+322 silly get     'x-cache': 'HIT',
+322 silly get     'x-cache-hits': '81',
+322 silly get     'x-timer': 'S1515001033.965134,VS0,VE0',
+322 silly get     vary: 'Accept-Encoding, Accept' } ]
+323 verbose etag https://registry.npmjs.org/progress from cache
+324 verbose get saving progress to C:\Users\jbearega\AppData\Roaming\npm-cache\registry.npmjs.org\progress\.cache.json
+325 verbose correctMkdir C:\Users\jbearega\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+326 http 304 https://registry.npmjs.org/fs-extra
+327 verbose headers { date: 'Wed, 03 Jan 2018 17:37:12 GMT',
+327 verbose headers   via: '1.1 varnish',
+327 verbose headers   'cache-control': 'max-age=300',
+327 verbose headers   etag: '"5a4cdffa-2259e"',
+327 verbose headers   age: '13437',
+327 verbose headers   connection: 'keep-alive',
+327 verbose headers   'x-served-by': 'cache-jfk8139-JFK',
+327 verbose headers   'x-cache': 'HIT',
+327 verbose headers   'x-cache-hits': '148',
+327 verbose headers   'x-timer': 'S1515001033.966217,VS0,VE0',
+327 verbose headers   vary: 'Accept-Encoding, Accept' }
+328 silly get cb [ 304,
+328 silly get   { date: 'Wed, 03 Jan 2018 17:37:12 GMT',
+328 silly get     via: '1.1 varnish',
+328 silly get     'cache-control': 'max-age=300',
+328 silly get     etag: '"5a4cdffa-2259e"',
+328 silly get     age: '13437',
+328 silly get     connection: 'keep-alive',
+328 silly get     'x-served-by': 'cache-jfk8139-JFK',
+328 silly get     'x-cache': 'HIT',
+328 silly get     'x-cache-hits': '148',
+328 silly get     'x-timer': 'S1515001033.966217,VS0,VE0',
+328 silly get     vary: 'Accept-Encoding, Accept' } ]
+329 verbose etag https://registry.npmjs.org/fs-extra from cache
+330 verbose get saving fs-extra to C:\Users\jbearega\AppData\Roaming\npm-cache\registry.npmjs.org\fs-extra\.cache.json
+331 verbose correctMkdir C:\Users\jbearega\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+332 http 304 https://registry.npmjs.org/es6-promise
+333 verbose headers { date: 'Wed, 03 Jan 2018 17:37:12 GMT',
+333 verbose headers   via: '1.1 varnish',
+333 verbose headers   'cache-control': 'max-age=300',
+333 verbose headers   etag: '"5a4ca5fc-10644"',
+333 verbose headers   age: '13865',
+333 verbose headers   connection: 'keep-alive',
+333 verbose headers   'x-served-by': 'cache-jfk8148-JFK',
+333 verbose headers   'x-cache': 'HIT',
+333 verbose headers   'x-cache-hits': '91',
+333 verbose headers   'x-timer': 'S1515001033.966386,VS0,VE0',
+333 verbose headers   vary: 'Accept-Encoding, Accept' }
+334 silly get cb [ 304,
+334 silly get   { date: 'Wed, 03 Jan 2018 17:37:12 GMT',
+334 silly get     via: '1.1 varnish',
+334 silly get     'cache-control': 'max-age=300',
+334 silly get     etag: '"5a4ca5fc-10644"',
+334 silly get     age: '13865',
+334 silly get     connection: 'keep-alive',
+334 silly get     'x-served-by': 'cache-jfk8148-JFK',
+334 silly get     'x-cache': 'HIT',
+334 silly get     'x-cache-hits': '91',
+334 silly get     'x-timer': 'S1515001033.966386,VS0,VE0',
+334 silly get     vary: 'Accept-Encoding, Accept' } ]
+335 verbose etag https://registry.npmjs.org/es6-promise from cache
+336 verbose get saving es6-promise to C:\Users\jbearega\AppData\Roaming\npm-cache\registry.npmjs.org\es6-promise\.cache.json
+337 verbose correctMkdir C:\Users\jbearega\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+338 http 304 https://registry.npmjs.org/kew
+339 verbose headers { date: 'Wed, 03 Jan 2018 17:37:12 GMT',
+339 verbose headers   via: '1.1 varnish',
+339 verbose headers   'cache-control': 'max-age=300',
+339 verbose headers   etag: '"59d2b25c-89ff"',
+339 verbose headers   age: '7386',
+339 verbose headers   connection: 'keep-alive',
+339 verbose headers   'x-served-by': 'cache-jfk8144-JFK',
+339 verbose headers   'x-cache': 'HIT',
+339 verbose headers   'x-cache-hits': '17',
+339 verbose headers   'x-timer': 'S1515001033.966564,VS0,VE0',
+339 verbose headers   vary: 'Accept-Encoding, Accept' }
+340 silly get cb [ 304,
+340 silly get   { date: 'Wed, 03 Jan 2018 17:37:12 GMT',
+340 silly get     via: '1.1 varnish',
+340 silly get     'cache-control': 'max-age=300',
+340 silly get     etag: '"59d2b25c-89ff"',
+340 silly get     age: '7386',
+340 silly get     connection: 'keep-alive',
+340 silly get     'x-served-by': 'cache-jfk8144-JFK',
+340 silly get     'x-cache': 'HIT',
+340 silly get     'x-cache-hits': '17',
+340 silly get     'x-timer': 'S1515001033.966564,VS0,VE0',
+340 silly get     vary: 'Accept-Encoding, Accept' } ]
+341 verbose etag https://registry.npmjs.org/kew from cache
+342 verbose get saving kew to C:\Users\jbearega\AppData\Roaming\npm-cache\registry.npmjs.org\kew\.cache.json
+343 verbose correctMkdir C:\Users\jbearega\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+344 http 304 https://registry.npmjs.org/request-progress
+345 verbose headers { date: 'Wed, 03 Jan 2018 17:37:12 GMT',
+345 verbose headers   via: '1.1 varnish',
+345 verbose headers   'cache-control': 'max-age=300',
+345 verbose headers   etag: '"5a27b3f3-615a"',
+345 verbose headers   age: '13461',
+345 verbose headers   connection: 'keep-alive',
+345 verbose headers   'x-served-by': 'cache-jfk8140-JFK',
+345 verbose headers   'x-cache': 'HIT',
+345 verbose headers   'x-cache-hits': '35',
+345 verbose headers   'x-timer': 'S1515001033.966409,VS0,VE0',
+345 verbose headers   vary: 'Accept-Encoding, Accept' }
+346 silly get cb [ 304,
+346 silly get   { date: 'Wed, 03 Jan 2018 17:37:12 GMT',
+346 silly get     via: '1.1 varnish',
+346 silly get     'cache-control': 'max-age=300',
+346 silly get     etag: '"5a27b3f3-615a"',
+346 silly get     age: '13461',
+346 silly get     connection: 'keep-alive',
+346 silly get     'x-served-by': 'cache-jfk8140-JFK',
+346 silly get     'x-cache': 'HIT',
+346 silly get     'x-cache-hits': '35',
+346 silly get     'x-timer': 'S1515001033.966409,VS0,VE0',
+346 silly get     vary: 'Accept-Encoding, Accept' } ]
+347 verbose etag https://registry.npmjs.org/request-progress from cache
+348 verbose get saving request-progress to C:\Users\jbearega\AppData\Roaming\npm-cache\registry.npmjs.org\request-progress\.cache.json
+349 verbose correctMkdir C:\Users\jbearega\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+350 silly resolveWithNewModule request-progress@2.0.1 checking installable status
+351 silly cache add args [ 'request-progress@^2.0.1', null ]
+352 verbose cache add spec request-progress@^2.0.1
 353 silly cache add parsed spec Result {
-353 silly cache add   raw: 'progress@^1.1.8',
+353 silly cache add   raw: 'request-progress@^2.0.1',
 353 silly cache add   scope: null,
-353 silly cache add   escapedName: 'progress',
-353 silly cache add   name: 'progress',
-353 silly cache add   rawSpec: '^1.1.8',
-353 silly cache add   spec: '>=1.1.8 <2.0.0',
+353 silly cache add   escapedName: 'request-progress',
+353 silly cache add   name: 'request-progress',
+353 silly cache add   rawSpec: '^2.0.1',
+353 silly cache add   spec: '>=2.0.1 <3.0.0',
 353 silly cache add   type: 'range' }
-354 silly addNamed progress@>=1.1.8 <2.0.0
-355 verbose addNamed ">=1.1.8 <2.0.0" is a valid semver range for progress
-356 silly addNameRange { name: 'progress', range: '>=1.1.8 <2.0.0', hasData: false }
-357 silly mapToRegistry name progress
+354 silly addNamed request-progress@>=2.0.1 <3.0.0
+355 verbose addNamed ">=2.0.1 <3.0.0" is a valid semver range for request-progress
+356 silly addNameRange { name: 'request-progress',
+356 silly addNameRange   range: '>=2.0.1 <3.0.0',
+356 silly addNameRange   hasData: false }
+357 silly mapToRegistry name request-progress
 358 silly mapToRegistry using default registry
 359 silly mapToRegistry registry https://registry.npmjs.org/
 360 silly mapToRegistry data Result {
-360 silly mapToRegistry   raw: 'progress',
+360 silly mapToRegistry   raw: 'request-progress',
 360 silly mapToRegistry   scope: null,
-360 silly mapToRegistry   escapedName: 'progress',
-360 silly mapToRegistry   name: 'progress',
+360 silly mapToRegistry   escapedName: 'request-progress',
+360 silly mapToRegistry   name: 'request-progress',
 360 silly mapToRegistry   rawSpec: '',
 360 silly mapToRegistry   spec: 'latest',
 360 silly mapToRegistry   type: 'tag' }
-361 silly mapToRegistry uri https://registry.npmjs.org/progress
-362 verbose addNameRange registry:https://registry.npmjs.org/progress not in flight; fetching
-363 silly resolveWithNewModule fs-extra@1.0.0 checking installable status
-364 silly cache add args [ 'fs-extra@^1.0.0', null ]
-365 verbose cache add spec fs-extra@^1.0.0
+361 silly mapToRegistry uri https://registry.npmjs.org/request-progress
+362 verbose addNameRange registry:https://registry.npmjs.org/request-progress not in flight; fetching
+363 silly resolveWithNewModule es6-promise@4.2.2 checking installable status
+364 silly cache add args [ 'es6-promise@^4.0.3', null ]
+365 verbose cache add spec es6-promise@^4.0.3
 366 silly cache add parsed spec Result {
-366 silly cache add   raw: 'fs-extra@^1.0.0',
+366 silly cache add   raw: 'es6-promise@^4.0.3',
 366 silly cache add   scope: null,
-366 silly cache add   escapedName: 'fs-extra',
-366 silly cache add   name: 'fs-extra',
-366 silly cache add   rawSpec: '^1.0.0',
-366 silly cache add   spec: '>=1.0.0 <2.0.0',
+366 silly cache add   escapedName: 'es6-promise',
+366 silly cache add   name: 'es6-promise',
+366 silly cache add   rawSpec: '^4.0.3',
+366 silly cache add   spec: '>=4.0.3 <5.0.0',
 366 silly cache add   type: 'range' }
-367 silly addNamed fs-extra@>=1.0.0 <2.0.0
-368 verbose addNamed ">=1.0.0 <2.0.0" is a valid semver range for fs-extra
-369 silly addNameRange { name: 'fs-extra', range: '>=1.0.0 <2.0.0', hasData: false }
-370 silly mapToRegistry name fs-extra
+367 silly addNamed es6-promise@>=4.0.3 <5.0.0
+368 verbose addNamed ">=4.0.3 <5.0.0" is a valid semver range for es6-promise
+369 silly addNameRange { name: 'es6-promise', range: '>=4.0.3 <5.0.0', hasData: false }
+370 silly mapToRegistry name es6-promise
 371 silly mapToRegistry using default registry
 372 silly mapToRegistry registry https://registry.npmjs.org/
 373 silly mapToRegistry data Result {
-373 silly mapToRegistry   raw: 'fs-extra',
+373 silly mapToRegistry   raw: 'es6-promise',
 373 silly mapToRegistry   scope: null,
-373 silly mapToRegistry   escapedName: 'fs-extra',
-373 silly mapToRegistry   name: 'fs-extra',
+373 silly mapToRegistry   escapedName: 'es6-promise',
+373 silly mapToRegistry   name: 'es6-promise',
 373 silly mapToRegistry   rawSpec: '',
 373 silly mapToRegistry   spec: 'latest',
 373 silly mapToRegistry   type: 'tag' }
-374 silly mapToRegistry uri https://registry.npmjs.org/fs-extra
-375 verbose addNameRange registry:https://registry.npmjs.org/fs-extra not in flight; fetching
-376 silly resolveWithNewModule request-progress@2.0.1 checking installable status
-377 silly cache add args [ 'request-progress@^2.0.1', null ]
-378 verbose cache add spec request-progress@^2.0.1
+374 silly mapToRegistry uri https://registry.npmjs.org/es6-promise
+375 verbose addNameRange registry:https://registry.npmjs.org/es6-promise not in flight; fetching
+376 silly resolveWithNewModule fs-extra@1.0.0 checking installable status
+377 silly cache add args [ 'fs-extra@^1.0.0', null ]
+378 verbose cache add spec fs-extra@^1.0.0
 379 silly cache add parsed spec Result {
-379 silly cache add   raw: 'request-progress@^2.0.1',
+379 silly cache add   raw: 'fs-extra@^1.0.0',
 379 silly cache add   scope: null,
-379 silly cache add   escapedName: 'request-progress',
-379 silly cache add   name: 'request-progress',
-379 silly cache add   rawSpec: '^2.0.1',
-379 silly cache add   spec: '>=2.0.1 <3.0.0',
+379 silly cache add   escapedName: 'fs-extra',
+379 silly cache add   name: 'fs-extra',
+379 silly cache add   rawSpec: '^1.0.0',
+379 silly cache add   spec: '>=1.0.0 <2.0.0',
 379 silly cache add   type: 'range' }
-380 silly addNamed request-progress@>=2.0.1 <3.0.0
-381 verbose addNamed ">=2.0.1 <3.0.0" is a valid semver range for request-progress
-382 silly addNameRange { name: 'request-progress',
-382 silly addNameRange   range: '>=2.0.1 <3.0.0',
-382 silly addNameRange   hasData: false }
-383 silly mapToRegistry name request-progress
+380 silly addNamed fs-extra@>=1.0.0 <2.0.0
+381 verbose addNamed ">=1.0.0 <2.0.0" is a valid semver range for fs-extra
+382 silly addNameRange { name: 'fs-extra', range: '>=1.0.0 <2.0.0', hasData: false }
+383 silly mapToRegistry name fs-extra
 384 silly mapToRegistry using default registry
 385 silly mapToRegistry registry https://registry.npmjs.org/
 386 silly mapToRegistry data Result {
-386 silly mapToRegistry   raw: 'request-progress',
+386 silly mapToRegistry   raw: 'fs-extra',
 386 silly mapToRegistry   scope: null,
-386 silly mapToRegistry   escapedName: 'request-progress',
-386 silly mapToRegistry   name: 'request-progress',
+386 silly mapToRegistry   escapedName: 'fs-extra',
+386 silly mapToRegistry   name: 'fs-extra',
 386 silly mapToRegistry   rawSpec: '',
 386 silly mapToRegistry   spec: 'latest',
 386 silly mapToRegistry   type: 'tag' }
-387 silly mapToRegistry uri https://registry.npmjs.org/request-progress
-388 verbose addNameRange registry:https://registry.npmjs.org/request-progress not in flight; fetching
-389 silly resolveWithNewModule hasha@2.2.0 checking installable status
-390 silly cache add args [ 'hasha@^2.2.0', null ]
-391 verbose cache add spec hasha@^2.2.0
+387 silly mapToRegistry uri https://registry.npmjs.org/fs-extra
+388 verbose addNameRange registry:https://registry.npmjs.org/fs-extra not in flight; fetching
+389 silly resolveWithNewModule kew@0.7.0 checking installable status
+390 silly cache add args [ 'kew@^0.7.0', null ]
+391 verbose cache add spec kew@^0.7.0
 392 silly cache add parsed spec Result {
-392 silly cache add   raw: 'hasha@^2.2.0',
+392 silly cache add   raw: 'kew@^0.7.0',
 392 silly cache add   scope: null,
-392 silly cache add   escapedName: 'hasha',
-392 silly cache add   name: 'hasha',
-392 silly cache add   rawSpec: '^2.2.0',
-392 silly cache add   spec: '>=2.2.0 <3.0.0',
+392 silly cache add   escapedName: 'kew',
+392 silly cache add   name: 'kew',
+392 silly cache add   rawSpec: '^0.7.0',
+392 silly cache add   spec: '>=0.7.0 <0.8.0',
 392 silly cache add   type: 'range' }
-393 silly addNamed hasha@>=2.2.0 <3.0.0
-394 verbose addNamed ">=2.2.0 <3.0.0" is a valid semver range for hasha
-395 silly addNameRange { name: 'hasha', range: '>=2.2.0 <3.0.0', hasData: false }
-396 silly mapToRegistry name hasha
+393 silly addNamed kew@>=0.7.0 <0.8.0
+394 verbose addNamed ">=0.7.0 <0.8.0" is a valid semver range for kew
+395 silly addNameRange { name: 'kew', range: '>=0.7.0 <0.8.0', hasData: false }
+396 silly mapToRegistry name kew
 397 silly mapToRegistry using default registry
 398 silly mapToRegistry registry https://registry.npmjs.org/
 399 silly mapToRegistry data Result {
-399 silly mapToRegistry   raw: 'hasha',
+399 silly mapToRegistry   raw: 'kew',
 399 silly mapToRegistry   scope: null,
-399 silly mapToRegistry   escapedName: 'hasha',
-399 silly mapToRegistry   name: 'hasha',
+399 silly mapToRegistry   escapedName: 'kew',
+399 silly mapToRegistry   name: 'kew',
 399 silly mapToRegistry   rawSpec: '',
 399 silly mapToRegistry   spec: 'latest',
 399 silly mapToRegistry   type: 'tag' }
-400 silly mapToRegistry uri https://registry.npmjs.org/hasha
-401 verbose addNameRange registry:https://registry.npmjs.org/hasha not in flight; fetching
-402 silly resolveWithNewModule kew@0.7.0 checking installable status
-403 silly cache add args [ 'kew@^0.7.0', null ]
-404 verbose cache add spec kew@^0.7.0
+400 silly mapToRegistry uri https://registry.npmjs.org/kew
+401 verbose addNameRange registry:https://registry.npmjs.org/kew not in flight; fetching
+402 silly resolveWithNewModule progress@1.1.8 checking installable status
+403 silly cache add args [ 'progress@^1.1.8', null ]
+404 verbose cache add spec progress@^1.1.8
 405 silly cache add parsed spec Result {
-405 silly cache add   raw: 'kew@^0.7.0',
+405 silly cache add   raw: 'progress@^1.1.8',
 405 silly cache add   scope: null,
-405 silly cache add   escapedName: 'kew',
-405 silly cache add   name: 'kew',
-405 silly cache add   rawSpec: '^0.7.0',
-405 silly cache add   spec: '>=0.7.0 <0.8.0',
+405 silly cache add   escapedName: 'progress',
+405 silly cache add   name: 'progress',
+405 silly cache add   rawSpec: '^1.1.8',
+405 silly cache add   spec: '>=1.1.8 <2.0.0',
 405 silly cache add   type: 'range' }
-406 silly addNamed kew@>=0.7.0 <0.8.0
-407 verbose addNamed ">=0.7.0 <0.8.0" is a valid semver range for kew
-408 silly addNameRange { name: 'kew', range: '>=0.7.0 <0.8.0', hasData: false }
-409 silly mapToRegistry name kew
+406 silly addNamed progress@>=1.1.8 <2.0.0
+407 verbose addNamed ">=1.1.8 <2.0.0" is a valid semver range for progress
+408 silly addNameRange { name: 'progress', range: '>=1.1.8 <2.0.0', hasData: false }
+409 silly mapToRegistry name progress
 410 silly mapToRegistry using default registry
 411 silly mapToRegistry registry https://registry.npmjs.org/
 412 silly mapToRegistry data Result {
-412 silly mapToRegistry   raw: 'kew',
+412 silly mapToRegistry   raw: 'progress',
 412 silly mapToRegistry   scope: null,
-412 silly mapToRegistry   escapedName: 'kew',
-412 silly mapToRegistry   name: 'kew',
+412 silly mapToRegistry   escapedName: 'progress',
+412 silly mapToRegistry   name: 'progress',
 412 silly mapToRegistry   rawSpec: '',
 412 silly mapToRegistry   spec: 'latest',
 412 silly mapToRegistry   type: 'tag' }
-413 silly mapToRegistry uri https://registry.npmjs.org/kew
-414 verbose addNameRange registry:https://registry.npmjs.org/kew not in flight; fetching
-415 verbose get https://registry.npmjs.org/progress not expired, no request
-416 silly addNameRange number 2 { name: 'progress', range: '>=1.1.8 <2.0.0', hasData: true }
-417 silly addNameRange versions [ 'progress',
-417 silly addNameRange   [ '0.0.1',
-417 silly addNameRange     '0.0.2',
-417 silly addNameRange     '0.0.3',
-417 silly addNameRange     '0.0.4',
-417 silly addNameRange     '0.0.5',
-417 silly addNameRange     '0.1.0',
+413 silly mapToRegistry uri https://registry.npmjs.org/progress
+414 verbose addNameRange registry:https://registry.npmjs.org/progress not in flight; fetching
+415 verbose get https://registry.npmjs.org/request-progress not expired, no request
+416 silly addNameRange number 2 { name: 'request-progress',
+416 silly addNameRange   range: '>=2.0.1 <3.0.0',
+416 silly addNameRange   hasData: true }
+417 silly addNameRange versions [ 'request-progress',
+417 silly addNameRange   [ '0.1.0',
+417 silly addNameRange     '0.1.1',
+417 silly addNameRange     '0.2.0',
+417 silly addNameRange     '0.2.1',
+417 silly addNameRange     '0.2.2',
+417 silly addNameRange     '0.2.3',
+417 silly addNameRange     '0.3.0',
+417 silly addNameRange     '0.3.1',
+417 silly addNameRange     '0.4.0',
 417 silly addNameRange     '1.0.0',
 417 silly addNameRange     '1.0.1',
-417 silly addNameRange     '1.1.0',
-417 silly addNameRange     '1.1.2',
-417 silly addNameRange     '1.1.3',
-417 silly addNameRange     '1.1.4',
-417 silly addNameRange     '1.1.5',
-417 silly addNameRange     '1.1.6',
-417 silly addNameRange     '1.1.7',
-417 silly addNameRange     '1.1.8',
-417 silly addNameRange     '2.0.0' ] ]
-418 silly addNamed progress@1.1.8
-419 verbose addNamed "1.1.8" is a plain semver version for progress
-420 verbose get https://registry.npmjs.org/fs-extra not expired, no request
-421 silly addNameRange number 2 { name: 'fs-extra', range: '>=1.0.0 <2.0.0', hasData: true }
-422 silly addNameRange versions [ 'fs-extra',
-422 silly addNameRange   [ '0.0.1',
-422 silly addNameRange     '0.0.11',
-422 silly addNameRange     '0.0.3',
-422 silly addNameRange     '0.0.4',
-422 silly addNameRange     '0.1.0',
+417 silly addNameRange     '1.0.2',
+417 silly addNameRange     '2.0.0',
+417 silly addNameRange     '2.0.1',
+417 silly addNameRange     '3.0.0' ] ]
+418 silly addNamed request-progress@2.0.1
+419 verbose addNamed "2.0.1" is a plain semver version for request-progress
+420 verbose get https://registry.npmjs.org/es6-promise not expired, no request
+421 silly addNameRange number 2 { name: 'es6-promise', range: '>=4.0.3 <5.0.0', hasData: true }
+422 silly addNameRange versions [ 'es6-promise',
+422 silly addNameRange   [ '0.1.0',
 422 silly addNameRange     '0.1.1',
 422 silly addNameRange     '0.1.2',
-422 silly addNameRange     '0.1.3',
-422 silly addNameRange     '0.2.0',
-422 silly addNameRange     '0.2.1',
-422 silly addNameRange     '0.3.0',
-422 silly addNameRange     '0.3.1',
-422 silly addNameRange     '0.3.2',
-422 silly addNameRange     '0.4.0',
-422 silly addNameRange     '0.5.0',
-422 silly addNameRange     '0.6.0',
-422 silly addNameRange     '0.6.1',
-422 silly addNameRange     '0.6.2',
-422 silly addNameRange     '0.6.3',
-422 silly addNameRange     '0.6.4',
-422 silly addNameRange     '0.7.0',
-422 silly addNameRange     '0.7.1',
-422 silly addNameRange     '0.8.0',
-422 silly addNameRange     '0.8.1',
-422 silly addNameRange     '0.9.0',
-422 silly addNameRange     '0.9.1',
-422 silly addNameRange     '0.10.0',
-422 silly addNameRange     '0.11.0',
-422 silly addNameRange     '0.11.1',
-422 silly addNameRange     '0.12.0',
-422 silly addNameRange     '0.13.0',
-422 silly addNameRange     '0.14.0',
-422 silly addNameRange     '0.15.0',
-422 silly addNameRange     '0.16.0',
-422 silly addNameRange     '0.16.1',
-422 silly addNameRange     '0.16.2',
-422 silly addNameRange     '0.16.3',
-422 silly addNameRange     '0.16.4',
-422 silly addNameRange     '0.16.5',
-422 silly addNameRange     '0.17.0',
-422 silly addNameRange     '0.18.0',
-422 silly addNameRange     '0.18.1',
-422 silly addNameRange     '0.18.2',
-422 silly addNameRange     '0.18.3',
-422 silly addNameRange     '0.18.4',
-422 silly addNameRange     '0.19.0',
-422 silly addNameRange     '0.20.0',
-422 silly addNameRange     '0.20.1',
-422 silly addNameRange     '0.21.0',
-422 silly addNameRange     '0.22.0',
-422 silly addNameRange     '0.22.1',
-422 silly addNameRange     '0.23.0',
-422 silly addNameRange     '0.23.1',
-422 silly addNameRange     '0.24.0',
-422 silly addNameRange     '0.25.0',
-422 silly addNameRange     '0.26.0',
-422 silly addNameRange     '0.26.1',
-422 silly addNameRange     '0.26.2',
-422 silly addNameRange     '0.26.3',
-422 silly addNameRange     '0.26.4',
-422 silly addNameRange     '0.26.5',
-422 silly addNameRange     '0.26.6',
-422 silly addNameRange     '0.26.7',
-422 silly addNameRange     '0.27.0',
-422 silly addNameRange     '0.28.0',
-422 silly addNameRange     '0.29.0',
-422 silly addNameRange     '0.30.0',
 422 silly addNameRange     '1.0.0',
 422 silly addNameRange     '2.0.0',
+422 silly addNameRange     '2.0.1',
 422 silly addNameRange     '2.1.0',
 422 silly addNameRange     '2.1.1',
-422 silly addNameRange     '2.1.2',
+422 silly addNameRange     '2.2.0',
+422 silly addNameRange     '2.3.0',
 422 silly addNameRange     '3.0.0',
 422 silly addNameRange     '3.0.1',
+422 silly addNameRange     '3.0.2',
+422 silly addNameRange     '3.1.2',
+422 silly addNameRange     '3.2.1',
+422 silly addNameRange     '3.3.0',
+422 silly addNameRange     '3.3.1',
 422 silly addNameRange     '4.0.0',
 422 silly addNameRange     '4.0.1',
 422 silly addNameRange     '4.0.2',
 422 silly addNameRange     '4.0.3',
-422 silly addNameRange     '5.0.0' ] ]
-423 silly addNamed fs-extra@1.0.0
-424 verbose addNamed "1.0.0" is a plain semver version for fs-extra
-425 verbose get https://registry.npmjs.org/request-progress not expired, no request
-426 silly addNameRange number 2 { name: 'request-progress',
-426 silly addNameRange   range: '>=2.0.1 <3.0.0',
-426 silly addNameRange   hasData: true }
-427 silly addNameRange versions [ 'request-progress',
-427 silly addNameRange   [ '0.1.0',
+422 silly addNameRange     '4.0.4',
+422 silly addNameRange     '4.0.5',
+422 silly addNameRange     '4.1.0',
+422 silly addNameRange     '4.1.1',
+422 silly addNameRange     '4.2.0',
+422 silly addNameRange     '4.2.1',
+422 silly addNameRange     '4.2.2' ] ]
+423 silly addNamed es6-promise@4.2.2
+424 verbose addNamed "4.2.2" is a plain semver version for es6-promise
+425 verbose get https://registry.npmjs.org/fs-extra not expired, no request
+426 silly addNameRange number 2 { name: 'fs-extra', range: '>=1.0.0 <2.0.0', hasData: true }
+427 silly addNameRange versions [ 'fs-extra',
+427 silly addNameRange   [ '0.0.1',
+427 silly addNameRange     '0.0.11',
+427 silly addNameRange     '0.0.3',
+427 silly addNameRange     '0.0.4',
+427 silly addNameRange     '0.1.0',
 427 silly addNameRange     '0.1.1',
+427 silly addNameRange     '0.1.2',
+427 silly addNameRange     '0.1.3',
 427 silly addNameRange     '0.2.0',
 427 silly addNameRange     '0.2.1',
-427 silly addNameRange     '0.2.2',
-427 silly addNameRange     '0.2.3',
 427 silly addNameRange     '0.3.0',
 427 silly addNameRange     '0.3.1',
+427 silly addNameRange     '0.3.2',
 427 silly addNameRange     '0.4.0',
+427 silly addNameRange     '0.5.0',
+427 silly addNameRange     '0.6.0',
+427 silly addNameRange     '0.6.1',
+427 silly addNameRange     '0.6.2',
+427 silly addNameRange     '0.6.3',
+427 silly addNameRange     '0.6.4',
+427 silly addNameRange     '0.7.0',
+427 silly addNameRange     '0.7.1',
+427 silly addNameRange     '0.8.0',
+427 silly addNameRange     '0.8.1',
+427 silly addNameRange     '0.9.0',
+427 silly addNameRange     '0.9.1',
+427 silly addNameRange     '0.10.0',
+427 silly addNameRange     '0.11.0',
+427 silly addNameRange     '0.11.1',
+427 silly addNameRange     '0.12.0',
+427 silly addNameRange     '0.13.0',
+427 silly addNameRange     '0.14.0',
+427 silly addNameRange     '0.15.0',
+427 silly addNameRange     '0.16.0',
+427 silly addNameRange     '0.16.1',
+427 silly addNameRange     '0.16.2',
+427 silly addNameRange     '0.16.3',
+427 silly addNameRange     '0.16.4',
+427 silly addNameRange     '0.16.5',
+427 silly addNameRange     '0.17.0',
+427 silly addNameRange     '0.18.0',
+427 silly addNameRange     '0.18.1',
+427 silly addNameRange     '0.18.2',
+427 silly addNameRange     '0.18.3',
+427 silly addNameRange     '0.18.4',
+427 silly addNameRange     '0.19.0',
+427 silly addNameRange     '0.20.0',
+427 silly addNameRange     '0.20.1',
+427 silly addNameRange     '0.21.0',
+427 silly addNameRange     '0.22.0',
+427 silly addNameRange     '0.22.1',
+427 silly addNameRange     '0.23.0',
+427 silly addNameRange     '0.23.1',
+427 silly addNameRange     '0.24.0',
+427 silly addNameRange     '0.25.0',
+427 silly addNameRange     '0.26.0',
+427 silly addNameRange     '0.26.1',
+427 silly addNameRange     '0.26.2',
+427 silly addNameRange     '0.26.3',
+427 silly addNameRange     '0.26.4',
+427 silly addNameRange     '0.26.5',
+427 silly addNameRange     '0.26.6',
+427 silly addNameRange     '0.26.7',
+427 silly addNameRange     '0.27.0',
+427 silly addNameRange     '0.28.0',
+427 silly addNameRange     '0.29.0',
+427 silly addNameRange     '0.30.0',
 427 silly addNameRange     '1.0.0',
-427 silly addNameRange     '1.0.1',
-427 silly addNameRange     '1.0.2',
 427 silly addNameRange     '2.0.0',
-427 silly addNameRange     '2.0.1',
-427 silly addNameRange     '3.0.0' ] ]
-428 silly addNamed request-progress@2.0.1
-429 verbose addNamed "2.0.1" is a plain semver version for request-progress
-430 verbose get https://registry.npmjs.org/hasha not expired, no request
-431 silly addNameRange number 2 { name: 'hasha', range: '>=2.2.0 <3.0.0', hasData: true }
-432 silly addNameRange versions [ 'hasha',
-432 silly addNameRange   [ '1.0.0',
-432 silly addNameRange     '1.0.1',
-432 silly addNameRange     '2.0.0',
-432 silly addNameRange     '2.0.1',
-432 silly addNameRange     '2.0.2',
-432 silly addNameRange     '2.1.0',
-432 silly addNameRange     '2.2.0',
-432 silly addNameRange     '3.0.0' ] ]
-433 silly addNamed hasha@2.2.0
-434 verbose addNamed "2.2.0" is a plain semver version for hasha
-435 verbose get https://registry.npmjs.org/kew not expired, no request
-436 silly addNameRange number 2 { name: 'kew', range: '>=0.7.0 <0.8.0', hasData: true }
-437 silly addNameRange versions [ 'kew',
+427 silly addNameRange     '2.1.0',
+427 silly addNameRange     '2.1.1',
+427 silly addNameRange     '2.1.2',
+427 silly addNameRange     '3.0.0',
+427 silly addNameRange     '3.0.1',
+427 silly addNameRange     '4.0.0',
+427 silly addNameRange     '4.0.1',
+427 silly addNameRange     '4.0.2',
+427 silly addNameRange     '4.0.3',
+427 silly addNameRange     '5.0.0' ] ]
+428 silly addNamed fs-extra@1.0.0
+429 verbose addNamed "1.0.0" is a plain semver version for fs-extra
+430 verbose get https://registry.npmjs.org/kew not expired, no request
+431 silly addNameRange number 2 { name: 'kew', range: '>=0.7.0 <0.8.0', hasData: true }
+432 silly addNameRange versions [ 'kew',
+432 silly addNameRange   [ '0.0.1',
+432 silly addNameRange     '0.0.2',
+432 silly addNameRange     '0.0.3',
+432 silly addNameRange     '0.0.4',
+432 silly addNameRange     '0.1.0',
+432 silly addNameRange     '0.1.1',
+432 silly addNameRange     '0.1.2',
+432 silly addNameRange     '0.1.3',
+432 silly addNameRange     '0.1.4',
+432 silly addNameRange     '0.1.5',
+432 silly addNameRange     '0.1.6',
+432 silly addNameRange     '0.1.7',
+432 silly addNameRange     '0.2.1',
+432 silly addNameRange     '0.2.2',
+432 silly addNameRange     '0.3.0',
+432 silly addNameRange     '0.3.1',
+432 silly addNameRange     '0.3.2',
+432 silly addNameRange     '0.3.3',
+432 silly addNameRange     '0.3.4',
+432 silly addNameRange     '0.4.0',
+432 silly addNameRange     '0.5.0-alpha',
+432 silly addNameRange     '0.5.0-alpha.1',
+432 silly addNameRange     '0.5.0',
+432 silly addNameRange     '0.6.0',
+432 silly addNameRange     '0.7.0' ] ]
+433 silly addNamed kew@0.7.0
+434 verbose addNamed "0.7.0" is a plain semver version for kew
+435 verbose get https://registry.npmjs.org/progress not expired, no request
+436 silly addNameRange number 2 { name: 'progress', range: '>=1.1.8 <2.0.0', hasData: true }
+437 silly addNameRange versions [ 'progress',
 437 silly addNameRange   [ '0.0.1',
 437 silly addNameRange     '0.0.2',
 437 silly addNameRange     '0.0.3',
 437 silly addNameRange     '0.0.4',
+437 silly addNameRange     '0.0.5',
 437 silly addNameRange     '0.1.0',
-437 silly addNameRange     '0.1.1',
-437 silly addNameRange     '0.1.2',
-437 silly addNameRange     '0.1.3',
-437 silly addNameRange     '0.1.4',
-437 silly addNameRange     '0.1.5',
-437 silly addNameRange     '0.1.6',
-437 silly addNameRange     '0.1.7',
-437 silly addNameRange     '0.2.1',
-437 silly addNameRange     '0.2.2',
-437 silly addNameRange     '0.3.0',
-437 silly addNameRange     '0.3.1',
-437 silly addNameRange     '0.3.2',
-437 silly addNameRange     '0.3.3',
-437 silly addNameRange     '0.3.4',
-437 silly addNameRange     '0.4.0',
-437 silly addNameRange     '0.5.0-alpha',
-437 silly addNameRange     '0.5.0-alpha.1',
-437 silly addNameRange     '0.5.0',
-437 silly addNameRange     '0.6.0',
-437 silly addNameRange     '0.7.0' ] ]
-438 silly addNamed kew@0.7.0
-439 verbose addNamed "0.7.0" is a plain semver version for kew
-440 silly cache afterAdd progress@1.1.8
-441 verbose afterAdd C:\Users\jbearega\AppData\Roaming\npm-cache\progress\1.1.8\package\package.json not in flight; writing
+437 silly addNameRange     '1.0.0',
+437 silly addNameRange     '1.0.1',
+437 silly addNameRange     '1.1.0',
+437 silly addNameRange     '1.1.2',
+437 silly addNameRange     '1.1.3',
+437 silly addNameRange     '1.1.4',
+437 silly addNameRange     '1.1.5',
+437 silly addNameRange     '1.1.6',
+437 silly addNameRange     '1.1.7',
+437 silly addNameRange     '1.1.8',
+437 silly addNameRange     '2.0.0' ] ]
+438 silly addNamed progress@1.1.8
+439 verbose addNamed "1.1.8" is a plain semver version for progress
+440 silly cache afterAdd request-progress@2.0.1
+441 verbose afterAdd C:\Users\jbearega\AppData\Roaming\npm-cache\request-progress\2.0.1\package\package.json not in flight; writing
 442 verbose correctMkdir C:\Users\jbearega\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
-443 silly cache afterAdd fs-extra@1.0.0
-444 verbose afterAdd C:\Users\jbearega\AppData\Roaming\npm-cache\fs-extra\1.0.0\package\package.json not in flight; writing
+443 silly cache afterAdd es6-promise@4.2.2
+444 verbose afterAdd C:\Users\jbearega\AppData\Roaming\npm-cache\es6-promise\4.2.2\package\package.json not in flight; writing
 445 verbose correctMkdir C:\Users\jbearega\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
-446 silly cache afterAdd hasha@2.2.0
-447 verbose afterAdd C:\Users\jbearega\AppData\Roaming\npm-cache\hasha\2.2.0\package\package.json not in flight; writing
+446 silly cache afterAdd kew@0.7.0
+447 verbose afterAdd C:\Users\jbearega\AppData\Roaming\npm-cache\kew\0.7.0\package\package.json not in flight; writing
 448 verbose correctMkdir C:\Users\jbearega\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
-449 silly cache afterAdd request-progress@2.0.1
-450 verbose afterAdd C:\Users\jbearega\AppData\Roaming\npm-cache\request-progress\2.0.1\package\package.json not in flight; writing
+449 silly cache afterAdd fs-extra@1.0.0
+450 verbose afterAdd C:\Users\jbearega\AppData\Roaming\npm-cache\fs-extra\1.0.0\package\package.json not in flight; writing
 451 verbose correctMkdir C:\Users\jbearega\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
-452 silly cache afterAdd kew@0.7.0
-453 verbose afterAdd C:\Users\jbearega\AppData\Roaming\npm-cache\kew\0.7.0\package\package.json not in flight; writing
+452 silly cache afterAdd progress@1.1.8
+453 verbose afterAdd C:\Users\jbearega\AppData\Roaming\npm-cache\progress\1.1.8\package\package.json not in flight; writing
 454 verbose correctMkdir C:\Users\jbearega\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
-455 verbose afterAdd C:\Users\jbearega\AppData\Roaming\npm-cache\fs-extra\1.0.0\package\package.json written
-456 verbose afterAdd C:\Users\jbearega\AppData\Roaming\npm-cache\progress\1.1.8\package\package.json written
-457 verbose afterAdd C:\Users\jbearega\AppData\Roaming\npm-cache\request-progress\2.0.1\package\package.json written
-458 verbose afterAdd C:\Users\jbearega\AppData\Roaming\npm-cache\hasha\2.2.0\package\package.json written
-459 verbose afterAdd C:\Users\jbearega\AppData\Roaming\npm-cache\kew\0.7.0\package\package.json written
+455 verbose afterAdd C:\Users\jbearega\AppData\Roaming\npm-cache\request-progress\2.0.1\package\package.json written
+456 verbose afterAdd C:\Users\jbearega\AppData\Roaming\npm-cache\kew\0.7.0\package\package.json written
+457 verbose afterAdd C:\Users\jbearega\AppData\Roaming\npm-cache\es6-promise\4.2.2\package\package.json written
+458 verbose afterAdd C:\Users\jbearega\AppData\Roaming\npm-cache\fs-extra\1.0.0\package\package.json written
+459 verbose afterAdd C:\Users\jbearega\AppData\Roaming\npm-cache\progress\1.1.8\package\package.json written
 460 silly fetchNamedPackageData yauzl
 461 silly mapToRegistry name yauzl
 462 silly mapToRegistry using default registry
@@ -1240,33 +1240,33 @@
 465 silly mapToRegistry uri https://registry.npmjs.org/yauzl
 466 verbose request uri https://registry.npmjs.org/yauzl
 467 verbose request no auth needed
-468 info attempt registry request try #1 at 10:52:39 AM
+468 info attempt registry request try #1 at 12:37:13 PM
 469 verbose etag "5a3e6288-e3dc"
 470 verbose lastModified Sat, 23 Dec 2017 14:04:56 GMT
 471 http request GET https://registry.npmjs.org/yauzl
 472 http 304 https://registry.npmjs.org/yauzl
-473 verbose headers { date: 'Wed, 03 Jan 2018 15:52:39 GMT',
+473 verbose headers { date: 'Wed, 03 Jan 2018 17:37:13 GMT',
 473 verbose headers   via: '1.1 varnish',
 473 verbose headers   'cache-control': 'max-age=300',
 473 verbose headers   etag: '"5a3e6288-e3dc"',
-473 verbose headers   age: '2731',
+473 verbose headers   age: '9004',
 473 verbose headers   connection: 'keep-alive',
-473 verbose headers   'x-served-by': 'cache-jfk8129-JFK',
+473 verbose headers   'x-served-by': 'cache-jfk8126-JFK',
 473 verbose headers   'x-cache': 'HIT',
-473 verbose headers   'x-cache-hits': '8',
-473 verbose headers   'x-timer': 'S1514994759.191436,VS0,VE0',
+473 verbose headers   'x-cache-hits': '29',
+473 verbose headers   'x-timer': 'S1515001033.064828,VS0,VE0',
 473 verbose headers   vary: 'Accept-Encoding, Accept' }
 474 silly get cb [ 304,
-474 silly get   { date: 'Wed, 03 Jan 2018 15:52:39 GMT',
+474 silly get   { date: 'Wed, 03 Jan 2018 17:37:13 GMT',
 474 silly get     via: '1.1 varnish',
 474 silly get     'cache-control': 'max-age=300',
 474 silly get     etag: '"5a3e6288-e3dc"',
-474 silly get     age: '2731',
+474 silly get     age: '9004',
 474 silly get     connection: 'keep-alive',
-474 silly get     'x-served-by': 'cache-jfk8129-JFK',
+474 silly get     'x-served-by': 'cache-jfk8126-JFK',
 474 silly get     'x-cache': 'HIT',
-474 silly get     'x-cache-hits': '8',
-474 silly get     'x-timer': 'S1514994759.191436,VS0,VE0',
+474 silly get     'x-cache-hits': '29',
+474 silly get     'x-timer': 'S1515001033.064828,VS0,VE0',
 474 silly get     vary: 'Accept-Encoding, Accept' } ]
 475 verbose etag https://registry.npmjs.org/yauzl from cache
 476 verbose get saving yauzl to C:\Users\jbearega\AppData\Roaming\npm-cache\registry.npmjs.org\yauzl\.cache.json
@@ -1317,33 +1317,33 @@
 500 silly mapToRegistry uri https://registry.npmjs.org/fd-slicer
 501 verbose request uri https://registry.npmjs.org/fd-slicer
 502 verbose request no auth needed
-503 info attempt registry request try #1 at 10:52:39 AM
+503 info attempt registry request try #1 at 12:37:13 PM
 504 verbose etag "5a1c178c-49f8"
 505 verbose lastModified Mon, 27 Nov 2017 13:47:56 GMT
 506 http request GET https://registry.npmjs.org/fd-slicer
 507 http 304 https://registry.npmjs.org/fd-slicer
-508 verbose headers { date: 'Wed, 03 Jan 2018 15:52:39 GMT',
+508 verbose headers { date: 'Wed, 03 Jan 2018 17:37:13 GMT',
 508 verbose headers   via: '1.1 varnish',
 508 verbose headers   'cache-control': 'max-age=300',
 508 verbose headers   etag: '"5a1c178c-49f8"',
-508 verbose headers   age: '7595',
+508 verbose headers   age: '13869',
 508 verbose headers   connection: 'keep-alive',
-508 verbose headers   'x-served-by': 'cache-jfk8122-JFK',
+508 verbose headers   'x-served-by': 'cache-jfk8134-JFK',
 508 verbose headers   'x-cache': 'HIT',
-508 verbose headers   'x-cache-hits': '32',
-508 verbose headers   'x-timer': 'S1514994759.238293,VS0,VE0',
+508 verbose headers   'x-cache-hits': '49',
+508 verbose headers   'x-timer': 'S1515001033.108877,VS0,VE0',
 508 verbose headers   vary: 'Accept-Encoding, Accept' }
 509 silly get cb [ 304,
-509 silly get   { date: 'Wed, 03 Jan 2018 15:52:39 GMT',
+509 silly get   { date: 'Wed, 03 Jan 2018 17:37:13 GMT',
 509 silly get     via: '1.1 varnish',
 509 silly get     'cache-control': 'max-age=300',
 509 silly get     etag: '"5a1c178c-49f8"',
-509 silly get     age: '7595',
+509 silly get     age: '13869',
 509 silly get     connection: 'keep-alive',
-509 silly get     'x-served-by': 'cache-jfk8122-JFK',
+509 silly get     'x-served-by': 'cache-jfk8134-JFK',
 509 silly get     'x-cache': 'HIT',
-509 silly get     'x-cache-hits': '32',
-509 silly get     'x-timer': 'S1514994759.238293,VS0,VE0',
+509 silly get     'x-cache-hits': '49',
+509 silly get     'x-timer': 'S1515001033.108877,VS0,VE0',
 509 silly get     vary: 'Accept-Encoding, Accept' } ]
 510 verbose etag https://registry.npmjs.org/fd-slicer from cache
 511 verbose get saving fd-slicer to C:\Users\jbearega\AppData\Roaming\npm-cache\registry.npmjs.org\fd-slicer\.cache.json
@@ -1410,33 +1410,33 @@
 540 silly mapToRegistry uri https://registry.npmjs.org/pend
 541 verbose request uri https://registry.npmjs.org/pend
 542 verbose request no auth needed
-543 info attempt registry request try #1 at 10:52:39 AM
+543 info attempt registry request try #1 at 12:37:13 PM
 544 verbose etag "593a9db9-18a3"
 545 verbose lastModified Fri, 9 Jun 2017 13:08:09 GMT
 546 http request GET https://registry.npmjs.org/pend
 547 http 304 https://registry.npmjs.org/pend
-548 verbose headers { date: 'Wed, 03 Jan 2018 15:52:39 GMT',
+548 verbose headers { date: 'Wed, 03 Jan 2018 17:37:13 GMT',
 548 verbose headers   via: '1.1 varnish',
 548 verbose headers   'cache-control': 'max-age=300',
 548 verbose headers   etag: '"593a9db9-18a3"',
-548 verbose headers   age: '4555',
+548 verbose headers   age: '10829',
 548 verbose headers   connection: 'keep-alive',
-548 verbose headers   'x-served-by': 'cache-jfk8132-JFK',
+548 verbose headers   'x-served-by': 'cache-jfk8147-JFK',
 548 verbose headers   'x-cache': 'HIT',
-548 verbose headers   'x-cache-hits': '18',
-548 verbose headers   'x-timer': 'S1514994759.278426,VS0,VE0',
+548 verbose headers   'x-cache-hits': '31',
+548 verbose headers   'x-timer': 'S1515001033.144355,VS0,VE0',
 548 verbose headers   vary: 'Accept-Encoding, Accept' }
 549 silly get cb [ 304,
-549 silly get   { date: 'Wed, 03 Jan 2018 15:52:39 GMT',
+549 silly get   { date: 'Wed, 03 Jan 2018 17:37:13 GMT',
 549 silly get     via: '1.1 varnish',
 549 silly get     'cache-control': 'max-age=300',
 549 silly get     etag: '"593a9db9-18a3"',
-549 silly get     age: '4555',
+549 silly get     age: '10829',
 549 silly get     connection: 'keep-alive',
-549 silly get     'x-served-by': 'cache-jfk8132-JFK',
+549 silly get     'x-served-by': 'cache-jfk8147-JFK',
 549 silly get     'x-cache': 'HIT',
-549 silly get     'x-cache-hits': '18',
-549 silly get     'x-timer': 'S1514994759.278426,VS0,VE0',
+549 silly get     'x-cache-hits': '31',
+549 silly get     'x-timer': 'S1515001033.144355,VS0,VE0',
 549 silly get     vary: 'Accept-Encoding, Accept' } ]
 550 verbose etag https://registry.npmjs.org/pend from cache
 551 verbose get saving pend to C:\Users\jbearega\AppData\Roaming\npm-cache\registry.npmjs.org\pend\.cache.json
@@ -1506,69 +1506,69 @@
 586 silly mapToRegistry uri https://registry.npmjs.org/klaw
 587 verbose request uri https://registry.npmjs.org/jsonfile
 588 verbose request no auth needed
-589 info attempt registry request try #1 at 10:52:39 AM
+589 info attempt registry request try #1 at 12:37:13 PM
 590 verbose etag "5a37a805-784f"
 591 verbose lastModified Mon, 18 Dec 2017 11:35:33 GMT
 592 http request GET https://registry.npmjs.org/jsonfile
 593 verbose request uri https://registry.npmjs.org/klaw
 594 verbose request no auth needed
-595 info attempt registry request try #1 at 10:52:39 AM
+595 info attempt registry request try #1 at 12:37:13 PM
 596 verbose etag "5a17b68b-5cae"
 597 verbose lastModified Fri, 24 Nov 2017 6:04:59 GMT
 598 http request GET https://registry.npmjs.org/klaw
-599 http 304 https://registry.npmjs.org/klaw
-600 verbose headers { date: 'Wed, 03 Jan 2018 15:52:39 GMT',
+599 http 304 https://registry.npmjs.org/jsonfile
+600 verbose headers { date: 'Wed, 03 Jan 2018 17:37:13 GMT',
 600 verbose headers   via: '1.1 varnish',
 600 verbose headers   'cache-control': 'max-age=300',
-600 verbose headers   etag: '"5a17b68b-5cae"',
-600 verbose headers   age: '8313',
+600 verbose headers   etag: '"5a37a805-784f"',
+600 verbose headers   age: '809',
 600 verbose headers   connection: 'keep-alive',
-600 verbose headers   'x-served-by': 'cache-jfk8130-JFK',
+600 verbose headers   'x-served-by': 'cache-jfk8139-JFK',
 600 verbose headers   'x-cache': 'HIT',
-600 verbose headers   'x-cache-hits': '47',
-600 verbose headers   'x-timer': 'S1514994759.315187,VS0,VE0',
+600 verbose headers   'x-cache-hits': '8',
+600 verbose headers   'x-timer': 'S1515001033.195733,VS0,VE0',
 600 verbose headers   vary: 'Accept-Encoding, Accept' }
 601 silly get cb [ 304,
-601 silly get   { date: 'Wed, 03 Jan 2018 15:52:39 GMT',
+601 silly get   { date: 'Wed, 03 Jan 2018 17:37:13 GMT',
 601 silly get     via: '1.1 varnish',
 601 silly get     'cache-control': 'max-age=300',
-601 silly get     etag: '"5a17b68b-5cae"',
-601 silly get     age: '8313',
+601 silly get     etag: '"5a37a805-784f"',
+601 silly get     age: '809',
 601 silly get     connection: 'keep-alive',
-601 silly get     'x-served-by': 'cache-jfk8130-JFK',
+601 silly get     'x-served-by': 'cache-jfk8139-JFK',
 601 silly get     'x-cache': 'HIT',
-601 silly get     'x-cache-hits': '47',
-601 silly get     'x-timer': 'S1514994759.315187,VS0,VE0',
+601 silly get     'x-cache-hits': '8',
+601 silly get     'x-timer': 'S1515001033.195733,VS0,VE0',
 601 silly get     vary: 'Accept-Encoding, Accept' } ]
-602 verbose etag https://registry.npmjs.org/klaw from cache
-603 verbose get saving klaw to C:\Users\jbearega\AppData\Roaming\npm-cache\registry.npmjs.org\klaw\.cache.json
+602 verbose etag https://registry.npmjs.org/jsonfile from cache
+603 verbose get saving jsonfile to C:\Users\jbearega\AppData\Roaming\npm-cache\registry.npmjs.org\jsonfile\.cache.json
 604 verbose correctMkdir C:\Users\jbearega\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
-605 http 304 https://registry.npmjs.org/jsonfile
-606 verbose headers { date: 'Wed, 03 Jan 2018 15:52:39 GMT',
+605 http 304 https://registry.npmjs.org/klaw
+606 verbose headers { date: 'Wed, 03 Jan 2018 17:37:13 GMT',
 606 verbose headers   via: '1.1 varnish',
 606 verbose headers   'cache-control': 'max-age=300',
-606 verbose headers   etag: '"5a37a805-784f"',
-606 verbose headers   age: '8949',
+606 verbose headers   etag: '"5a17b68b-5cae"',
+606 verbose headers   age: '187',
 606 verbose headers   connection: 'keep-alive',
-606 verbose headers   'x-served-by': 'cache-jfk8125-JFK',
+606 verbose headers   'x-served-by': 'cache-jfk8148-JFK',
 606 verbose headers   'x-cache': 'HIT',
-606 verbose headers   'x-cache-hits': '75',
-606 verbose headers   'x-timer': 'S1514994759.315845,VS0,VE0',
+606 verbose headers   'x-cache-hits': '4',
+606 verbose headers   'x-timer': 'S1515001033.198900,VS0,VE0',
 606 verbose headers   vary: 'Accept-Encoding, Accept' }
 607 silly get cb [ 304,
-607 silly get   { date: 'Wed, 03 Jan 2018 15:52:39 GMT',
+607 silly get   { date: 'Wed, 03 Jan 2018 17:37:13 GMT',
 607 silly get     via: '1.1 varnish',
 607 silly get     'cache-control': 'max-age=300',
-607 silly get     etag: '"5a37a805-784f"',
-607 silly get     age: '8949',
+607 silly get     etag: '"5a17b68b-5cae"',
+607 silly get     age: '187',
 607 silly get     connection: 'keep-alive',
-607 silly get     'x-served-by': 'cache-jfk8125-JFK',
+607 silly get     'x-served-by': 'cache-jfk8148-JFK',
 607 silly get     'x-cache': 'HIT',
-607 silly get     'x-cache-hits': '75',
-607 silly get     'x-timer': 'S1514994759.315845,VS0,VE0',
+607 silly get     'x-cache-hits': '4',
+607 silly get     'x-timer': 'S1515001033.198900,VS0,VE0',
 607 silly get     vary: 'Accept-Encoding, Accept' } ]
-608 verbose etag https://registry.npmjs.org/jsonfile from cache
-609 verbose get saving jsonfile to C:\Users\jbearega\AppData\Roaming\npm-cache\registry.npmjs.org\jsonfile\.cache.json
+608 verbose etag https://registry.npmjs.org/klaw from cache
+609 verbose get saving klaw to C:\Users\jbearega\AppData\Roaming\npm-cache\registry.npmjs.org\klaw\.cache.json
 610 verbose correctMkdir C:\Users\jbearega\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
 611 silly resolveWithNewModule jsonfile@2.4.0 checking installable status
 612 silly cache add args [ 'jsonfile@^2.1.0', null ]
@@ -1673,8 +1673,8 @@
 650 silly cache afterAdd klaw@1.3.1
 651 verbose afterAdd C:\Users\jbearega\AppData\Roaming\npm-cache\klaw\1.3.1\package\package.json not in flight; writing
 652 verbose correctMkdir C:\Users\jbearega\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
-653 verbose afterAdd C:\Users\jbearega\AppData\Roaming\npm-cache\jsonfile\2.4.0\package\package.json written
-654 verbose afterAdd C:\Users\jbearega\AppData\Roaming\npm-cache\klaw\1.3.1\package\package.json written
+653 verbose afterAdd C:\Users\jbearega\AppData\Roaming\npm-cache\klaw\1.3.1\package\package.json written
+654 verbose afterAdd C:\Users\jbearega\AppData\Roaming\npm-cache\jsonfile\2.4.0\package\package.json written
 655 silly fetchNamedPackageData is-stream
 656 silly mapToRegistry name is-stream
 657 silly mapToRegistry using default registry
@@ -1690,33 +1690,33 @@
 660 silly mapToRegistry uri https://registry.npmjs.org/is-stream
 661 verbose request uri https://registry.npmjs.org/is-stream
 662 verbose request no auth needed
-663 info attempt registry request try #1 at 10:52:39 AM
+663 info attempt registry request try #1 at 12:37:13 PM
 664 verbose etag "59216fbb-143e"
 665 verbose lastModified Sun, 21 May 2017 10:45:15 GMT
 666 http request GET https://registry.npmjs.org/is-stream
 667 http 304 https://registry.npmjs.org/is-stream
-668 verbose headers { date: 'Wed, 03 Jan 2018 15:52:39 GMT',
+668 verbose headers { date: 'Wed, 03 Jan 2018 17:37:13 GMT',
 668 verbose headers   via: '1.1 varnish',
 668 verbose headers   'cache-control': 'max-age=300',
 668 verbose headers   etag: '"59216fbb-143e"',
-668 verbose headers   age: '9568',
+668 verbose headers   age: '1440',
 668 verbose headers   connection: 'keep-alive',
-668 verbose headers   'x-served-by': 'cache-jfk8123-JFK',
+668 verbose headers   'x-served-by': 'cache-jfk8144-JFK',
 668 verbose headers   'x-cache': 'HIT',
-668 verbose headers   'x-cache-hits': '176',
-668 verbose headers   'x-timer': 'S1514994759.366184,VS0,VE0',
+668 verbose headers   'x-cache-hits': '28',
+668 verbose headers   'x-timer': 'S1515001033.257972,VS0,VE0',
 668 verbose headers   vary: 'Accept-Encoding, Accept' }
 669 silly get cb [ 304,
-669 silly get   { date: 'Wed, 03 Jan 2018 15:52:39 GMT',
+669 silly get   { date: 'Wed, 03 Jan 2018 17:37:13 GMT',
 669 silly get     via: '1.1 varnish',
 669 silly get     'cache-control': 'max-age=300',
 669 silly get     etag: '"59216fbb-143e"',
-669 silly get     age: '9568',
+669 silly get     age: '1440',
 669 silly get     connection: 'keep-alive',
-669 silly get     'x-served-by': 'cache-jfk8123-JFK',
+669 silly get     'x-served-by': 'cache-jfk8144-JFK',
 669 silly get     'x-cache': 'HIT',
-669 silly get     'x-cache-hits': '176',
-669 silly get     'x-timer': 'S1514994759.366184,VS0,VE0',
+669 silly get     'x-cache-hits': '28',
+669 silly get     'x-timer': 'S1515001033.257972,VS0,VE0',
 669 silly get     vary: 'Accept-Encoding, Accept' } ]
 670 verbose etag https://registry.npmjs.org/is-stream from cache
 671 verbose get saving is-stream to C:\Users\jbearega\AppData\Roaming\npm-cache\registry.npmjs.org\is-stream\.cache.json
@@ -1772,33 +1772,33 @@
 700 silly mapToRegistry uri https://registry.npmjs.org/throttleit
 701 verbose request uri https://registry.npmjs.org/throttleit
 702 verbose request no auth needed
-703 info attempt registry request try #1 at 10:52:39 AM
+703 info attempt registry request try #1 at 12:37:13 PM
 704 verbose etag "59732d2b-1794"
 705 verbose lastModified Sat, 22 Jul 2017 10:47:07 GMT
 706 http request GET https://registry.npmjs.org/throttleit
 707 http 304 https://registry.npmjs.org/throttleit
-708 verbose headers { date: 'Wed, 03 Jan 2018 15:52:39 GMT',
+708 verbose headers { date: 'Wed, 03 Jan 2018 17:37:13 GMT',
 708 verbose headers   via: '1.1 varnish',
 708 verbose headers   'cache-control': 'max-age=300',
 708 verbose headers   etag: '"59732d2b-1794"',
-708 verbose headers   age: '1951',
+708 verbose headers   age: '8225',
 708 verbose headers   connection: 'keep-alive',
-708 verbose headers   'x-served-by': 'cache-jfk8131-JFK',
+708 verbose headers   'x-served-by': 'cache-jfk8140-JFK',
 708 verbose headers   'x-cache': 'HIT',
-708 verbose headers   'x-cache-hits': '6',
-708 verbose headers   'x-timer': 'S1514994759.434292,VS0,VE0',
+708 verbose headers   'x-cache-hits': '19',
+708 verbose headers   'x-timer': 'S1515001033.357056,VS0,VE0',
 708 verbose headers   vary: 'Accept-Encoding, Accept' }
 709 silly get cb [ 304,
-709 silly get   { date: 'Wed, 03 Jan 2018 15:52:39 GMT',
+709 silly get   { date: 'Wed, 03 Jan 2018 17:37:13 GMT',
 709 silly get     via: '1.1 varnish',
 709 silly get     'cache-control': 'max-age=300',
 709 silly get     etag: '"59732d2b-1794"',
-709 silly get     age: '1951',
+709 silly get     age: '8225',
 709 silly get     connection: 'keep-alive',
-709 silly get     'x-served-by': 'cache-jfk8131-JFK',
+709 silly get     'x-served-by': 'cache-jfk8140-JFK',
 709 silly get     'x-cache': 'HIT',
-709 silly get     'x-cache-hits': '6',
-709 silly get     'x-timer': 'S1514994759.434292,VS0,VE0',
+709 silly get     'x-cache-hits': '19',
+709 silly get     'x-timer': 'S1515001033.357056,VS0,VE0',
 709 silly get     vary: 'Accept-Encoding, Accept' } ]
 710 verbose etag https://registry.npmjs.org/throttleit from cache
 711 verbose get saving throttleit to C:\Users\jbearega\AppData\Roaming\npm-cache\registry.npmjs.org\throttleit\.cache.json
@@ -2970,122 +2970,122 @@
 935 silly extract grunt-contrib-qunit@1.2.0
 936 verbose unbuild node_modules\.staging\is-stream-61dbdc2c
 937 verbose unbuild node_modules\.staging\hasha-d587eb27
-938 verbose unbuild node_modules\.staging\kew-229c5a54
-939 verbose unbuild node_modules\.staging\jsonfile-b86418f7
+938 verbose unbuild node_modules\.staging\jsonfile-b86418f7
+939 verbose unbuild node_modules\.staging\kew-229c5a54
 940 verbose unbuild node_modules\.staging\klaw-e67c9afd
-941 verbose unbuild node_modules\.staging\fs-extra-c4cbbb81
-942 verbose unbuild node_modules\.staging\pend-9b2e14ac
+941 verbose unbuild node_modules\.staging\pend-9b2e14ac
+942 verbose unbuild node_modules\.staging\fs-extra-c4cbbb81
 943 verbose unbuild node_modules\.staging\fd-slicer-89937aad
-944 verbose unbuild node_modules\.staging\es6-promise-2466225c
-945 verbose unbuild node_modules\.staging\progress-72d4908b
+944 verbose unbuild node_modules\.staging\progress-72d4908b
+945 verbose unbuild node_modules\.staging\es6-promise-2466225c
 946 verbose unbuild node_modules\.staging\throttleit-555415e4
 947 verbose unbuild node_modules\.staging\request-progress-297ee230
 948 verbose unbuild node_modules\.staging\yauzl-cc6f9b9b
 949 verbose unbuild node_modules\.staging\grunt-lib-phantomjs-e0ee4776
 950 verbose unbuild node_modules\.staging\grunt-contrib-qunit-27622f8a
-951 verbose unbuild node_modules\.staging\extract-zip-82e0bed1
-952 verbose unbuild node_modules\.staging\phantomjs-prebuilt-f48e6dc9
-953 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\is-stream-61dbdc2c is being purged from base C:\Users\jbearega\Projects\reveal.js
-954 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\is-stream-61dbdc2c
-955 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\hasha-d587eb27 is being purged from base C:\Users\jbearega\Projects\reveal.js
-956 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\hasha-d587eb27
-957 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\kew-229c5a54 is being purged from base C:\Users\jbearega\Projects\reveal.js
-958 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\kew-229c5a54
-959 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\jsonfile-b86418f7 is being purged from base C:\Users\jbearega\Projects\reveal.js
-960 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\jsonfile-b86418f7
-961 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\klaw-e67c9afd is being purged from base C:\Users\jbearega\Projects\reveal.js
-962 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\klaw-e67c9afd
-963 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\fs-extra-c4cbbb81 is being purged from base C:\Users\jbearega\Projects\reveal.js
-964 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\fs-extra-c4cbbb81
-965 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\pend-9b2e14ac is being purged from base C:\Users\jbearega\Projects\reveal.js
-966 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\pend-9b2e14ac
-967 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\fd-slicer-89937aad is being purged from base C:\Users\jbearega\Projects\reveal.js
-968 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\fd-slicer-89937aad
-969 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\es6-promise-2466225c is being purged from base C:\Users\jbearega\Projects\reveal.js
-970 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\es6-promise-2466225c
-971 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\progress-72d4908b is being purged from base C:\Users\jbearega\Projects\reveal.js
-972 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\progress-72d4908b
-973 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\throttleit-555415e4 is being purged from base C:\Users\jbearega\Projects\reveal.js
-974 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\throttleit-555415e4
-975 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\request-progress-297ee230 is being purged from base C:\Users\jbearega\Projects\reveal.js
-976 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\request-progress-297ee230
-977 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\yauzl-cc6f9b9b is being purged from base C:\Users\jbearega\Projects\reveal.js
-978 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\yauzl-cc6f9b9b
-979 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\grunt-lib-phantomjs-e0ee4776 is being purged from base C:\Users\jbearega\Projects\reveal.js
-980 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\grunt-lib-phantomjs-e0ee4776
-981 verbose unbuild node_modules\.staging\rimraf-a0a1d2cc
-982 verbose tar unpack C:\Users\jbearega\AppData\Roaming\npm-cache\is-stream\1.1.0\package.tgz
-983 verbose tar unpacking to C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\is-stream-61dbdc2c
-984 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\is-stream-61dbdc2c is being purged
-985 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\is-stream-61dbdc2c
-986 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\grunt-contrib-qunit-27622f8a is being purged from base C:\Users\jbearega\Projects\reveal.js
-987 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\grunt-contrib-qunit-27622f8a
-988 verbose tar unpack C:\Users\jbearega\AppData\Roaming\npm-cache\hasha\2.2.0\package.tgz
-989 verbose tar unpacking to C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\hasha-d587eb27
-990 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\hasha-d587eb27 is being purged
-991 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\hasha-d587eb27
-992 verbose tar unpack C:\Users\jbearega\AppData\Roaming\npm-cache\kew\0.7.0\package.tgz
-993 verbose tar unpacking to C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\kew-229c5a54
-994 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\kew-229c5a54 is being purged
-995 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\kew-229c5a54
-996 verbose tar unpack C:\Users\jbearega\AppData\Roaming\npm-cache\jsonfile\2.4.0\package.tgz
-997 verbose tar unpacking to C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\jsonfile-b86418f7
-998 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\jsonfile-b86418f7 is being purged
-999 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\jsonfile-b86418f7
-1000 verbose tar unpack C:\Users\jbearega\AppData\Roaming\npm-cache\klaw\1.3.1\package.tgz
-1001 verbose tar unpacking to C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\klaw-e67c9afd
-1002 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\klaw-e67c9afd is being purged
-1003 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\klaw-e67c9afd
-1004 verbose tar unpack C:\Users\jbearega\AppData\Roaming\npm-cache\fs-extra\1.0.0\package.tgz
-1005 verbose tar unpacking to C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\fs-extra-c4cbbb81
-1006 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\fs-extra-c4cbbb81 is being purged
-1007 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\fs-extra-c4cbbb81
-1008 verbose tar unpack C:\Users\jbearega\AppData\Roaming\npm-cache\pend\1.2.0\package.tgz
-1009 verbose tar unpacking to C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\pend-9b2e14ac
-1010 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\pend-9b2e14ac is being purged
-1011 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\pend-9b2e14ac
-1012 verbose tar unpack C:\Users\jbearega\AppData\Roaming\npm-cache\fd-slicer\1.0.1\package.tgz
-1013 verbose tar unpacking to C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\fd-slicer-89937aad
-1014 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\fd-slicer-89937aad is being purged
-1015 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\fd-slicer-89937aad
-1016 verbose tar unpack C:\Users\jbearega\AppData\Roaming\npm-cache\es6-promise\4.2.2\package.tgz
-1017 verbose tar unpacking to C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\es6-promise-2466225c
-1018 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\es6-promise-2466225c is being purged
-1019 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\es6-promise-2466225c
-1020 verbose tar unpack C:\Users\jbearega\AppData\Roaming\npm-cache\progress\1.1.8\package.tgz
-1021 verbose tar unpacking to C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\progress-72d4908b
-1022 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\progress-72d4908b is being purged
-1023 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\progress-72d4908b
-1024 verbose tar unpack C:\Users\jbearega\AppData\Roaming\npm-cache\throttleit\1.0.0\package.tgz
-1025 verbose tar unpacking to C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\throttleit-555415e4
-1026 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\throttleit-555415e4 is being purged
-1027 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\throttleit-555415e4
-1028 verbose tar unpack C:\Users\jbearega\AppData\Roaming\npm-cache\request-progress\2.0.1\package.tgz
-1029 verbose tar unpacking to C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\request-progress-297ee230
-1030 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\request-progress-297ee230 is being purged
-1031 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\request-progress-297ee230
-1032 verbose tar unpack C:\Users\jbearega\AppData\Roaming\npm-cache\yauzl\2.4.1\package.tgz
-1033 verbose tar unpacking to C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\yauzl-cc6f9b9b
-1034 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\yauzl-cc6f9b9b is being purged
-1035 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\yauzl-cc6f9b9b
-1036 verbose tar unpack C:\Users\jbearega\AppData\Roaming\npm-cache\grunt-lib-phantomjs\1.1.0\package.tgz
-1037 verbose tar unpacking to C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\grunt-lib-phantomjs-e0ee4776
-1038 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\grunt-lib-phantomjs-e0ee4776 is being purged
-1039 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\grunt-lib-phantomjs-e0ee4776
-1040 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\extract-zip-82e0bed1 is being purged from base C:\Users\jbearega\Projects\reveal.js
-1041 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\extract-zip-82e0bed1
+951 verbose unbuild node_modules\.staging\rimraf-a0a1d2cc
+952 verbose unbuild node_modules\.staging\extract-zip-82e0bed1
+953 verbose unbuild node_modules\.staging\phantomjs-prebuilt-f48e6dc9
+954 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\is-stream-61dbdc2c is being purged from base C:\Users\jbearega\Projects\reveal.js
+955 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\is-stream-61dbdc2c
+956 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\hasha-d587eb27 is being purged from base C:\Users\jbearega\Projects\reveal.js
+957 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\hasha-d587eb27
+958 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\jsonfile-b86418f7 is being purged from base C:\Users\jbearega\Projects\reveal.js
+959 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\jsonfile-b86418f7
+960 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\klaw-e67c9afd is being purged from base C:\Users\jbearega\Projects\reveal.js
+961 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\klaw-e67c9afd
+962 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\pend-9b2e14ac is being purged from base C:\Users\jbearega\Projects\reveal.js
+963 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\pend-9b2e14ac
+964 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\kew-229c5a54 is being purged from base C:\Users\jbearega\Projects\reveal.js
+965 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\kew-229c5a54
+966 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\fs-extra-c4cbbb81 is being purged from base C:\Users\jbearega\Projects\reveal.js
+967 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\fs-extra-c4cbbb81
+968 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\fd-slicer-89937aad is being purged from base C:\Users\jbearega\Projects\reveal.js
+969 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\fd-slicer-89937aad
+970 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\es6-promise-2466225c is being purged from base C:\Users\jbearega\Projects\reveal.js
+971 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\es6-promise-2466225c
+972 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\throttleit-555415e4 is being purged from base C:\Users\jbearega\Projects\reveal.js
+973 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\throttleit-555415e4
+974 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\progress-72d4908b is being purged from base C:\Users\jbearega\Projects\reveal.js
+975 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\progress-72d4908b
+976 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\request-progress-297ee230 is being purged from base C:\Users\jbearega\Projects\reveal.js
+977 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\request-progress-297ee230
+978 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\yauzl-cc6f9b9b is being purged from base C:\Users\jbearega\Projects\reveal.js
+979 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\yauzl-cc6f9b9b
+980 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\grunt-lib-phantomjs-e0ee4776 is being purged from base C:\Users\jbearega\Projects\reveal.js
+981 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\grunt-lib-phantomjs-e0ee4776
+982 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\grunt-contrib-qunit-27622f8a is being purged from base C:\Users\jbearega\Projects\reveal.js
+983 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\grunt-contrib-qunit-27622f8a
+984 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\rimraf-a0a1d2cc is being purged from base C:\Users\jbearega\Projects\reveal.js
+985 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\rimraf-a0a1d2cc
+986 verbose tar unpack C:\Users\jbearega\AppData\Roaming\npm-cache\is-stream\1.1.0\package.tgz
+987 verbose tar unpacking to C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\is-stream-61dbdc2c
+988 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\is-stream-61dbdc2c is being purged
+989 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\is-stream-61dbdc2c
+990 verbose tar unpack C:\Users\jbearega\AppData\Roaming\npm-cache\hasha\2.2.0\package.tgz
+991 verbose tar unpacking to C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\hasha-d587eb27
+992 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\hasha-d587eb27 is being purged
+993 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\hasha-d587eb27
+994 verbose tar unpack C:\Users\jbearega\AppData\Roaming\npm-cache\jsonfile\2.4.0\package.tgz
+995 verbose tar unpacking to C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\jsonfile-b86418f7
+996 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\jsonfile-b86418f7 is being purged
+997 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\jsonfile-b86418f7
+998 verbose tar unpack C:\Users\jbearega\AppData\Roaming\npm-cache\klaw\1.3.1\package.tgz
+999 verbose tar unpacking to C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\klaw-e67c9afd
+1000 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\klaw-e67c9afd is being purged
+1001 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\klaw-e67c9afd
+1002 verbose tar unpack C:\Users\jbearega\AppData\Roaming\npm-cache\pend\1.2.0\package.tgz
+1003 verbose tar unpacking to C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\pend-9b2e14ac
+1004 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\pend-9b2e14ac is being purged
+1005 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\pend-9b2e14ac
+1006 verbose tar unpack C:\Users\jbearega\AppData\Roaming\npm-cache\kew\0.7.0\package.tgz
+1007 verbose tar unpacking to C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\kew-229c5a54
+1008 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\kew-229c5a54 is being purged
+1009 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\kew-229c5a54
+1010 verbose tar unpack C:\Users\jbearega\AppData\Roaming\npm-cache\fs-extra\1.0.0\package.tgz
+1011 verbose tar unpacking to C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\fs-extra-c4cbbb81
+1012 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\fs-extra-c4cbbb81 is being purged
+1013 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\fs-extra-c4cbbb81
+1014 verbose tar unpack C:\Users\jbearega\AppData\Roaming\npm-cache\fd-slicer\1.0.1\package.tgz
+1015 verbose tar unpacking to C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\fd-slicer-89937aad
+1016 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\fd-slicer-89937aad is being purged
+1017 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\fd-slicer-89937aad
+1018 verbose tar unpack C:\Users\jbearega\AppData\Roaming\npm-cache\es6-promise\4.2.2\package.tgz
+1019 verbose tar unpacking to C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\es6-promise-2466225c
+1020 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\es6-promise-2466225c is being purged
+1021 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\es6-promise-2466225c
+1022 verbose tar unpack C:\Users\jbearega\AppData\Roaming\npm-cache\throttleit\1.0.0\package.tgz
+1023 verbose tar unpacking to C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\throttleit-555415e4
+1024 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\throttleit-555415e4 is being purged
+1025 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\throttleit-555415e4
+1026 verbose tar unpack C:\Users\jbearega\AppData\Roaming\npm-cache\progress\1.1.8\package.tgz
+1027 verbose tar unpacking to C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\progress-72d4908b
+1028 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\progress-72d4908b is being purged
+1029 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\progress-72d4908b
+1030 verbose tar unpack C:\Users\jbearega\AppData\Roaming\npm-cache\request-progress\2.0.1\package.tgz
+1031 verbose tar unpacking to C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\request-progress-297ee230
+1032 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\request-progress-297ee230 is being purged
+1033 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\request-progress-297ee230
+1034 verbose tar unpack C:\Users\jbearega\AppData\Roaming\npm-cache\yauzl\2.4.1\package.tgz
+1035 verbose tar unpacking to C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\yauzl-cc6f9b9b
+1036 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\yauzl-cc6f9b9b is being purged
+1037 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\yauzl-cc6f9b9b
+1038 verbose tar unpack C:\Users\jbearega\AppData\Roaming\npm-cache\grunt-lib-phantomjs\1.1.0\package.tgz
+1039 verbose tar unpacking to C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\grunt-lib-phantomjs-e0ee4776
+1040 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\grunt-lib-phantomjs-e0ee4776 is being purged
+1041 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\grunt-lib-phantomjs-e0ee4776
 1042 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\phantomjs-prebuilt-f48e6dc9 is being purged from base C:\Users\jbearega\Projects\reveal.js
 1043 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\phantomjs-prebuilt-f48e6dc9
-1044 silly gunzTarPerm modes [ '777', '666' ]
-1045 verbose tar unpack C:\Users\jbearega\AppData\Roaming\npm-cache\grunt-contrib-qunit\1.2.0\package.tgz
-1046 verbose tar unpacking to C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\grunt-contrib-qunit-27622f8a
-1047 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\grunt-contrib-qunit-27622f8a is being purged
-1048 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\grunt-contrib-qunit-27622f8a
-1049 silly gunzTarPerm modes [ '777', '666' ]
-1050 silly gunzTarPerm modes [ '777', '666' ]
-1051 silly gunzTarPerm modes [ '777', '666' ]
-1052 silly gunzTarPerm modes [ '777', '666' ]
-1053 silly gunzTarPerm modes [ '777', '666' ]
+1044 verbose tar unpack C:\Users\jbearega\AppData\Roaming\npm-cache\grunt-contrib-qunit\1.2.0\package.tgz
+1045 verbose tar unpacking to C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\grunt-contrib-qunit-27622f8a
+1046 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\grunt-contrib-qunit-27622f8a is being purged
+1047 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\grunt-contrib-qunit-27622f8a
+1048 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\extract-zip-82e0bed1 is being purged from base C:\Users\jbearega\Projects\reveal.js
+1049 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\extract-zip-82e0bed1
+1050 verbose tar unpack C:\Users\jbearega\AppData\Roaming\npm-cache\rimraf\2.6.2\package.tgz
+1051 verbose tar unpacking to C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\rimraf-a0a1d2cc
+1052 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\rimraf-a0a1d2cc is being purged
+1053 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\rimraf-a0a1d2cc
 1054 silly gunzTarPerm modes [ '777', '666' ]
 1055 silly gunzTarPerm modes [ '777', '666' ]
 1056 silly gunzTarPerm modes [ '777', '666' ]
@@ -3094,23 +3094,23 @@
 1059 silly gunzTarPerm modes [ '777', '666' ]
 1060 silly gunzTarPerm modes [ '777', '666' ]
 1061 silly gunzTarPerm modes [ '777', '666' ]
-1062 verbose tar unpack C:\Users\jbearega\AppData\Roaming\npm-cache\extract-zip\1.6.6\package.tgz
-1063 verbose tar unpacking to C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\extract-zip-82e0bed1
-1064 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\extract-zip-82e0bed1 is being purged
-1065 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\extract-zip-82e0bed1
-1066 verbose tar unpack C:\Users\jbearega\AppData\Roaming\npm-cache\phantomjs-prebuilt\2.1.16\package.tgz
-1067 verbose tar unpacking to C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\phantomjs-prebuilt-f48e6dc9
-1068 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\phantomjs-prebuilt-f48e6dc9 is being purged
-1069 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\phantomjs-prebuilt-f48e6dc9
-1070 silly gunzTarPerm modes [ '777', '666' ]
-1071 silly gunzTarPerm modes [ '777', '666' ]
+1062 silly gunzTarPerm modes [ '777', '666' ]
+1063 silly gunzTarPerm modes [ '777', '666' ]
+1064 silly gunzTarPerm modes [ '777', '666' ]
+1065 silly gunzTarPerm modes [ '777', '666' ]
+1066 silly gunzTarPerm modes [ '777', '666' ]
+1067 silly gunzTarPerm modes [ '777', '666' ]
+1068 verbose tar unpack C:\Users\jbearega\AppData\Roaming\npm-cache\phantomjs-prebuilt\2.1.16\package.tgz
+1069 verbose tar unpacking to C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\phantomjs-prebuilt-f48e6dc9
+1070 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\phantomjs-prebuilt-f48e6dc9 is being purged
+1071 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\phantomjs-prebuilt-f48e6dc9
 1072 silly gunzTarPerm modes [ '777', '666' ]
-1073 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\rimraf-a0a1d2cc is being purged from base C:\Users\jbearega\Projects\reveal.js
-1074 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\rimraf-a0a1d2cc
-1075 verbose tar unpack C:\Users\jbearega\AppData\Roaming\npm-cache\rimraf\2.6.2\package.tgz
-1076 verbose tar unpacking to C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\rimraf-a0a1d2cc
-1077 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\rimraf-a0a1d2cc is being purged
-1078 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\rimraf-a0a1d2cc
+1073 verbose tar unpack C:\Users\jbearega\AppData\Roaming\npm-cache\extract-zip\1.6.6\package.tgz
+1074 verbose tar unpacking to C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\extract-zip-82e0bed1
+1075 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\extract-zip-82e0bed1 is being purged
+1076 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\extract-zip-82e0bed1
+1077 silly gunzTarPerm modes [ '777', '666' ]
+1078 silly gunzTarPerm modes [ '777', '666' ]
 1079 silly gunzTarPerm modes [ '777', '666' ]
 1080 silly gunzTarPerm extractEntry package.json
 1081 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
@@ -3119,11 +3119,11 @@
 1084 silly gunzTarPerm extractEntry package.json
 1085 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
 1086 silly gunzTarPerm extractEntry package.json
-1087 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
+1087 silly gunzTarPerm modified mode [ 'package.json', 436, 438 ]
 1088 silly gunzTarPerm extractEntry package.json
 1089 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
 1090 silly gunzTarPerm extractEntry package.json
-1091 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
+1091 silly gunzTarPerm modified mode [ 'package.json', 436, 438 ]
 1092 silly gunzTarPerm extractEntry package.json
 1093 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
 1094 silly gunzTarPerm extractEntry package.json
@@ -3135,259 +3135,259 @@
 1100 silly gunzTarPerm extractEntry package.json
 1101 silly gunzTarPerm modified mode [ 'package.json', 436, 438 ]
 1102 silly gunzTarPerm extractEntry package.json
-1103 silly gunzTarPerm modified mode [ 'package.json', 436, 438 ]
+1103 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
 1104 silly gunzTarPerm extractEntry package.json
 1105 silly gunzTarPerm modified mode [ 'package.json', 436, 438 ]
 1106 silly gunzTarPerm extractEntry package.json
-1107 silly gunzTarPerm modified mode [ 'package.json', 436, 438 ]
+1107 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
 1108 silly gunzTarPerm extractEntry package.json
-1109 silly gunzTarPerm modified mode [ 'package.json', 436, 438 ]
+1109 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
 1110 silly gunzTarPerm extractEntry package.json
-1111 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
+1111 silly gunzTarPerm modified mode [ 'package.json', 436, 438 ]
 1112 silly gunzTarPerm extractEntry package.json
 1113 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
 1114 silly gunzTarPerm extractEntry package.json
 1115 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
-1116 silly gunzTarPerm extractEntry .npmignore
-1117 silly gunzTarPerm modified mode [ '.npmignore', 420, 438 ]
-1118 silly gunzTarPerm extractEntry README.md
-1119 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
-1120 silly gunzTarPerm extractEntry index.js
-1121 silly gunzTarPerm modified mode [ 'index.js', 420, 438 ]
-1122 silly gunzTarPerm extractEntry license
-1123 silly gunzTarPerm modified mode [ 'license', 420, 438 ]
-1124 silly gunzTarPerm extractEntry .npmignore
-1125 silly gunzTarPerm modified mode [ '.npmignore', 420, 438 ]
-1126 silly gunzTarPerm extractEntry README.md
-1127 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
-1128 silly gunzTarPerm extractEntry .npmignore
-1129 silly gunzTarPerm modified mode [ '.npmignore', 420, 438 ]
-1130 silly gunzTarPerm extractEntry LICENSE
-1131 silly gunzTarPerm modified mode [ 'LICENSE', 420, 438 ]
-1132 silly gunzTarPerm extractEntry index.js
-1133 silly gunzTarPerm modified mode [ 'index.js', 420, 438 ]
-1134 silly gunzTarPerm extractEntry license
-1135 silly gunzTarPerm modified mode [ 'license', 420, 438 ]
+1116 silly gunzTarPerm extractEntry README.md
+1117 silly gunzTarPerm modified mode [ 'README.md', 436, 438 ]
+1118 silly gunzTarPerm extractEntry LICENSE
+1119 silly gunzTarPerm modified mode [ 'LICENSE', 436, 438 ]
+1120 silly gunzTarPerm extractEntry .npmignore
+1121 silly gunzTarPerm modified mode [ '.npmignore', 420, 438 ]
+1122 silly gunzTarPerm extractEntry README.md
+1123 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
+1124 silly gunzTarPerm extractEntry index.js
+1125 silly gunzTarPerm modified mode [ 'index.js', 420, 438 ]
+1126 silly gunzTarPerm extractEntry license
+1127 silly gunzTarPerm modified mode [ 'license', 420, 438 ]
+1128 silly gunzTarPerm extractEntry auto.js
+1129 silly gunzTarPerm modified mode [ 'auto.js', 420, 438 ]
+1130 silly gunzTarPerm extractEntry CHANGELOG.md
+1131 silly gunzTarPerm modified mode [ 'CHANGELOG.md', 420, 438 ]
+1132 silly gunzTarPerm extractEntry .npmignore
+1133 silly gunzTarPerm modified mode [ '.npmignore', 436, 438 ]
+1134 silly gunzTarPerm extractEntry README.md
+1135 silly gunzTarPerm modified mode [ 'README.md', 436, 438 ]
 1136 silly gunzTarPerm extractEntry .npmignore
 1137 silly gunzTarPerm modified mode [ '.npmignore', 420, 438 ]
 1138 silly gunzTarPerm extractEntry test.js
 1139 silly gunzTarPerm modified mode [ 'test.js', 420, 438 ]
 1140 silly gunzTarPerm extractEntry .npmignore
-1141 silly gunzTarPerm modified mode [ '.npmignore', 436, 438 ]
+1141 silly gunzTarPerm modified mode [ '.npmignore', 420, 438 ]
 1142 silly gunzTarPerm extractEntry README.md
-1143 silly gunzTarPerm modified mode [ 'README.md', 436, 438 ]
-1144 silly gunzTarPerm extractEntry .npmignore
-1145 silly gunzTarPerm modified mode [ '.npmignore', 420, 438 ]
-1146 silly gunzTarPerm extractEntry README.md
-1147 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
-1148 silly gunzTarPerm extractEntry README.md
-1149 silly gunzTarPerm modified mode [ 'README.md', 436, 438 ]
-1150 silly gunzTarPerm extractEntry CHANGELOG
-1151 silly gunzTarPerm modified mode [ 'CHANGELOG', 436, 438 ]
-1152 silly gunzTarPerm extractEntry .npmignore
-1153 silly gunzTarPerm modified mode [ '.npmignore', 420, 438 ]
-1154 silly gunzTarPerm extractEntry README.md
-1155 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
+1143 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
+1144 silly gunzTarPerm extractEntry README.md
+1145 silly gunzTarPerm modified mode [ 'README.md', 436, 438 ]
+1146 silly gunzTarPerm extractEntry CHANGELOG
+1147 silly gunzTarPerm modified mode [ 'CHANGELOG', 436, 438 ]
+1148 silly gunzTarPerm extractEntry .npmignore
+1149 silly gunzTarPerm modified mode [ '.npmignore', 420, 438 ]
+1150 silly gunzTarPerm extractEntry LICENSE
+1151 silly gunzTarPerm modified mode [ 'LICENSE', 420, 438 ]
+1152 silly gunzTarPerm extractEntry index.js
+1153 silly gunzTarPerm modified mode [ 'index.js', 420, 438 ]
+1154 silly gunzTarPerm extractEntry license
+1155 silly gunzTarPerm modified mode [ 'license', 420, 438 ]
 1156 silly gunzTarPerm extractEntry .npmignore
 1157 silly gunzTarPerm modified mode [ '.npmignore', 420, 438 ]
 1158 silly gunzTarPerm extractEntry README.md
 1159 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
-1160 silly gunzTarPerm extractEntry .npmignore
-1161 silly gunzTarPerm modified mode [ '.npmignore', 436, 438 ]
-1162 silly gunzTarPerm extractEntry README.md
-1163 silly gunzTarPerm modified mode [ 'README.md', 436, 438 ]
-1164 silly gunzTarPerm extractEntry README.md
-1165 silly gunzTarPerm modified mode [ 'README.md', 436, 438 ]
-1166 silly gunzTarPerm extractEntry CHANGELOG
-1167 silly gunzTarPerm modified mode [ 'CHANGELOG', 436, 438 ]
-1168 silly gunzTarPerm extractEntry README.md
-1169 silly gunzTarPerm modified mode [ 'README.md', 436, 438 ]
-1170 silly gunzTarPerm extractEntry LICENSE
-1171 silly gunzTarPerm modified mode [ 'LICENSE', 436, 438 ]
-1172 silly gunzTarPerm extractEntry auto.js
-1173 silly gunzTarPerm modified mode [ 'auto.js', 420, 438 ]
-1174 silly gunzTarPerm extractEntry CHANGELOG.md
-1175 silly gunzTarPerm modified mode [ 'CHANGELOG.md', 420, 438 ]
-1176 silly gunzTarPerm extractEntry .npmignore
-1177 silly gunzTarPerm modified mode [ '.npmignore', 420, 438 ]
-1178 silly gunzTarPerm extractEntry README.md
-1179 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
+1160 silly gunzTarPerm extractEntry README.md
+1161 silly gunzTarPerm modified mode [ 'README.md', 436, 438 ]
+1162 silly gunzTarPerm extractEntry CHANGELOG
+1163 silly gunzTarPerm modified mode [ 'CHANGELOG', 436, 438 ]
+1164 silly gunzTarPerm extractEntry .npmignore
+1165 silly gunzTarPerm modified mode [ '.npmignore', 420, 438 ]
+1166 silly gunzTarPerm extractEntry README.md
+1167 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
+1168 silly gunzTarPerm extractEntry .npmignore
+1169 silly gunzTarPerm modified mode [ '.npmignore', 436, 438 ]
+1170 silly gunzTarPerm extractEntry README.md
+1171 silly gunzTarPerm modified mode [ 'README.md', 436, 438 ]
+1172 silly gunzTarPerm extractEntry .npmignore
+1173 silly gunzTarPerm modified mode [ '.npmignore', 420, 438 ]
+1174 silly gunzTarPerm extractEntry README.md
+1175 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
+1176 silly gunzTarPerm extractEntry bin.js
+1177 silly gunzTarPerm modified mode [ 'bin.js', 493, 511 ]
+1178 silly gunzTarPerm extractEntry LICENSE
+1179 silly gunzTarPerm modified mode [ 'LICENSE', 420, 438 ]
 1180 silly gunzTarPerm extractEntry .npmignore
 1181 silly gunzTarPerm modified mode [ '.npmignore', 420, 438 ]
 1182 silly gunzTarPerm extractEntry LICENSE
 1183 silly gunzTarPerm modified mode [ 'LICENSE', 420, 438 ]
-1184 silly gunzTarPerm extractEntry bin.js
-1185 silly gunzTarPerm modified mode [ 'bin.js', 493, 511 ]
-1186 silly gunzTarPerm extractEntry LICENSE
-1187 silly gunzTarPerm modified mode [ 'LICENSE', 420, 438 ]
-1188 silly gunzTarPerm extractEntry example.js
-1189 silly gunzTarPerm modified mode [ 'example.js', 420, 438 ]
-1190 silly gunzTarPerm extractEntry index.js
-1191 silly gunzTarPerm modified mode [ 'index.js', 420, 438 ]
-1192 silly gunzTarPerm extractEntry index.js
-1193 silly gunzTarPerm modified mode [ 'index.js', 436, 438 ]
-1194 silly gunzTarPerm extractEntry test.js
-1195 silly gunzTarPerm modified mode [ 'test.js', 436, 438 ]
-1196 silly gunzTarPerm extractEntry readme.md
-1197 silly gunzTarPerm modified mode [ 'readme.md', 420, 438 ]
-1198 silly gunzTarPerm extractEntry index.js
-1199 silly gunzTarPerm modified mode [ 'index.js', 420, 438 ]
-1200 silly gunzTarPerm extractEntry History.md
-1201 silly gunzTarPerm modified mode [ 'History.md', 420, 438 ]
+1184 silly gunzTarPerm extractEntry .npmignore
+1185 silly gunzTarPerm modified mode [ '.npmignore', 420, 438 ]
+1186 silly gunzTarPerm extractEntry README.md
+1187 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
+1188 silly gunzTarPerm extractEntry index.js
+1189 silly gunzTarPerm modified mode [ 'index.js', 436, 438 ]
+1190 silly gunzTarPerm extractEntry test.js
+1191 silly gunzTarPerm modified mode [ 'test.js', 436, 438 ]
+1192 silly gunzTarPerm extractEntry example.js
+1193 silly gunzTarPerm modified mode [ 'example.js', 420, 438 ]
+1194 silly gunzTarPerm extractEntry index.js
+1195 silly gunzTarPerm modified mode [ 'index.js', 420, 438 ]
+1196 silly gunzTarPerm extractEntry LICENSE
+1197 silly gunzTarPerm modified mode [ 'LICENSE', 420, 438 ]
+1198 silly gunzTarPerm extractEntry src/assign.js
+1199 silly gunzTarPerm modified mode [ 'src/assign.js', 420, 438 ]
+1200 silly gunzTarPerm extractEntry es6-promise.d.ts
+1201 silly gunzTarPerm modified mode [ 'es6-promise.d.ts', 420, 438 ]
 1202 silly gunzTarPerm extractEntry LICENSE
-1203 silly gunzTarPerm modified mode [ 'LICENSE', 436, 438 ]
+1203 silly gunzTarPerm modified mode [ 'LICENSE', 420, 438 ]
 1204 silly gunzTarPerm extractEntry readme.md
 1205 silly gunzTarPerm modified mode [ 'readme.md', 420, 438 ]
 1206 silly gunzTarPerm extractEntry LICENSE
 1207 silly gunzTarPerm modified mode [ 'LICENSE', 420, 438 ]
-1208 silly gunzTarPerm extractEntry foo.js
-1209 silly gunzTarPerm modified mode [ 'foo.js', 420, 438 ]
-1210 silly gunzTarPerm extractEntry lib/phantomjs.js
-1211 silly gunzTarPerm modified mode [ 'lib/phantomjs.js', 436, 438 ]
-1212 silly gunzTarPerm extractEntry phantomjs/main.js
-1213 silly gunzTarPerm modified mode [ 'phantomjs/main.js', 436, 438 ]
-1214 silly gunzTarPerm extractEntry LICENSE
-1215 silly gunzTarPerm modified mode [ 'LICENSE', 420, 438 ]
-1216 silly gunzTarPerm extractEntry tasks/qunit.js
-1217 silly gunzTarPerm modified mode [ 'tasks/qunit.js', 436, 438 ]
-1218 silly gunzTarPerm extractEntry LICENSE
-1219 silly gunzTarPerm modified mode [ 'LICENSE', 420, 438 ]
-1220 silly gunzTarPerm extractEntry index.js
-1221 silly gunzTarPerm modified mode [ 'index.js', 420, 438 ]
+1208 silly gunzTarPerm extractEntry index.js
+1209 silly gunzTarPerm modified mode [ 'index.js', 420, 438 ]
+1210 silly gunzTarPerm extractEntry LICENSE
+1211 silly gunzTarPerm modified mode [ 'LICENSE', 436, 438 ]
+1212 silly gunzTarPerm extractEntry index.js
+1213 silly gunzTarPerm modified mode [ 'index.js', 436, 438 ]
+1214 silly gunzTarPerm extractEntry tasks/qunit.js
+1215 silly gunzTarPerm modified mode [ 'tasks/qunit.js', 436, 438 ]
+1216 silly gunzTarPerm extractEntry readme.md
+1217 silly gunzTarPerm modified mode [ 'readme.md', 420, 438 ]
+1218 silly gunzTarPerm extractEntry index.js
+1219 silly gunzTarPerm modified mode [ 'index.js', 420, 438 ]
+1220 silly gunzTarPerm extractEntry History.md
+1221 silly gunzTarPerm modified mode [ 'History.md', 420, 438 ]
 1222 silly gunzTarPerm extractEntry LICENSE
 1223 silly gunzTarPerm modified mode [ 'LICENSE', 420, 438 ]
-1224 silly gunzTarPerm extractEntry src/assign.js
-1225 silly gunzTarPerm modified mode [ 'src/assign.js', 420, 438 ]
-1226 silly gunzTarPerm extractEntry kew.js
-1227 silly gunzTarPerm modified mode [ 'kew.js', 420, 438 ]
-1228 silly gunzTarPerm extractEntry .travis.yml
-1229 silly gunzTarPerm modified mode [ '.travis.yml', 420, 438 ]
-1230 silly gunzTarPerm extractEntry LICENSE.TXT
-1231 silly gunzTarPerm modified mode [ 'LICENSE.TXT', 420, 438 ]
-1232 silly gunzTarPerm extractEntry test/chain.js
-1233 silly gunzTarPerm modified mode [ 'test/chain.js', 420, 438 ]
-1234 silly gunzTarPerm extractEntry test/closure_test.js
-1235 silly gunzTarPerm modified mode [ 'test/closure_test.js', 420, 438 ]
-1236 silly gunzTarPerm extractEntry test/context.js
-1237 silly gunzTarPerm modified mode [ 'test/context.js', 420, 438 ]
-1238 silly gunzTarPerm extractEntry test/defer.js
-1239 silly gunzTarPerm modified mode [ 'test/defer.js', 420, 438 ]
-1240 silly gunzTarPerm extractEntry test/externs_node.js
-1241 silly gunzTarPerm modified mode [ 'test/externs_node.js', 420, 438 ]
-1242 silly gunzTarPerm extractEntry test/later.js
-1243 silly gunzTarPerm modified mode [ 'test/later.js', 420, 438 ]
-1244 silly gunzTarPerm extractEntry test/scopes.js
-1245 silly gunzTarPerm modified mode [ 'test/scopes.js', 420, 438 ]
-1246 silly gunzTarPerm extractEntry test/spread.js
-1247 silly gunzTarPerm modified mode [ 'test/spread.js', 420, 438 ]
-1248 silly gunzTarPerm extractEntry test/static.js
-1249 silly gunzTarPerm modified mode [ 'test/static.js', 420, 438 ]
-1250 silly gunzTarPerm extractEntry es6-promise.d.ts
-1251 silly gunzTarPerm modified mode [ 'es6-promise.d.ts', 420, 438 ]
-1252 silly gunzTarPerm extractEntry LICENSE
-1253 silly gunzTarPerm modified mode [ 'LICENSE', 420, 438 ]
-1254 silly gunzTarPerm extractEntry install.js
-1255 silly gunzTarPerm modified mode [ 'install.js', 420, 438 ]
-1256 silly gunzTarPerm extractEntry .travis.yml
-1257 silly gunzTarPerm modified mode [ '.travis.yml', 420, 438 ]
-1258 silly gunzTarPerm extractEntry LICENSE.txt
-1259 silly gunzTarPerm modified mode [ 'LICENSE.txt', 420, 438 ]
-1260 silly gunzTarPerm extractEntry .eslintrc
-1261 silly gunzTarPerm modified mode [ '.eslintrc', 420, 438 ]
-1262 silly gunzTarPerm extractEntry bin/phantomjs
-1263 silly gunzTarPerm modified mode [ 'bin/phantomjs', 493, 511 ]
-1264 silly gunzTarPerm extractEntry .eslintignore
-1265 silly gunzTarPerm modified mode [ '.eslintignore', 420, 438 ]
-1266 silly gunzTarPerm extractEntry lib/phantomjs.js
-1267 silly gunzTarPerm modified mode [ 'lib/phantomjs.js', 420, 438 ]
-1268 silly gunzTarPerm extractEntry lib/util.js
-1269 silly gunzTarPerm modified mode [ 'lib/util.js', 420, 438 ]
-1270 silly gunzTarPerm extractEntry .jshintrc
-1271 silly gunzTarPerm modified mode [ '.jshintrc', 420, 438 ]
-1272 silly gunzTarPerm extractEntry test/exit.js
-1273 silly gunzTarPerm modified mode [ 'test/exit.js', 420, 438 ]
-1274 silly gunzTarPerm extractEntry test/loadspeed.js
-1275 silly gunzTarPerm modified mode [ 'test/loadspeed.js', 420, 438 ]
-1276 silly gunzTarPerm extractEntry test/tests.js
-1277 silly gunzTarPerm modified mode [ 'test/tests.js', 420, 438 ]
-1278 silly gunzTarPerm extractEntry cli.js
-1279 silly gunzTarPerm modified mode [ 'cli.js', 493, 511 ]
-1280 silly gunzTarPerm extractEntry index.js
-1281 silly gunzTarPerm modified mode [ 'index.js', 420, 438 ]
-1282 silly gunzTarPerm extractEntry LICENSE
-1283 silly gunzTarPerm modified mode [ 'LICENSE', 436, 438 ]
-1284 silly gunzTarPerm extractEntry index.js
-1285 silly gunzTarPerm modified mode [ 'index.js', 436, 438 ]
-1286 silly gunzTarPerm extractEntry README.md
-1287 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
-1288 silly gunzTarPerm extractEntry rimraf.js
-1289 silly gunzTarPerm modified mode [ 'rimraf.js', 420, 438 ]
+1224 silly gunzTarPerm extractEntry kew.js
+1225 silly gunzTarPerm modified mode [ 'kew.js', 420, 438 ]
+1226 silly gunzTarPerm extractEntry .travis.yml
+1227 silly gunzTarPerm modified mode [ '.travis.yml', 420, 438 ]
+1228 silly gunzTarPerm extractEntry LICENSE.TXT
+1229 silly gunzTarPerm modified mode [ 'LICENSE.TXT', 420, 438 ]
+1230 silly gunzTarPerm extractEntry test/chain.js
+1231 silly gunzTarPerm modified mode [ 'test/chain.js', 420, 438 ]
+1232 silly gunzTarPerm extractEntry test/closure_test.js
+1233 silly gunzTarPerm modified mode [ 'test/closure_test.js', 420, 438 ]
+1234 silly gunzTarPerm extractEntry test/context.js
+1235 silly gunzTarPerm modified mode [ 'test/context.js', 420, 438 ]
+1236 silly gunzTarPerm extractEntry test/defer.js
+1237 silly gunzTarPerm modified mode [ 'test/defer.js', 420, 438 ]
+1238 silly gunzTarPerm extractEntry test/externs_node.js
+1239 silly gunzTarPerm modified mode [ 'test/externs_node.js', 420, 438 ]
+1240 silly gunzTarPerm extractEntry test/later.js
+1241 silly gunzTarPerm modified mode [ 'test/later.js', 420, 438 ]
+1242 silly gunzTarPerm extractEntry test/scopes.js
+1243 silly gunzTarPerm modified mode [ 'test/scopes.js', 420, 438 ]
+1244 silly gunzTarPerm extractEntry test/spread.js
+1245 silly gunzTarPerm modified mode [ 'test/spread.js', 420, 438 ]
+1246 silly gunzTarPerm extractEntry test/static.js
+1247 silly gunzTarPerm modified mode [ 'test/static.js', 420, 438 ]
+1248 silly gunzTarPerm extractEntry lib/phantomjs.js
+1249 silly gunzTarPerm modified mode [ 'lib/phantomjs.js', 436, 438 ]
+1250 silly gunzTarPerm extractEntry phantomjs/main.js
+1251 silly gunzTarPerm modified mode [ 'phantomjs/main.js', 436, 438 ]
+1252 silly gunzTarPerm extractEntry README.md
+1253 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
+1254 silly gunzTarPerm extractEntry rimraf.js
+1255 silly gunzTarPerm modified mode [ 'rimraf.js', 420, 438 ]
+1256 silly gunzTarPerm extractEntry LICENSE
+1257 silly gunzTarPerm modified mode [ 'LICENSE', 420, 438 ]
+1258 silly gunzTarPerm extractEntry foo.js
+1259 silly gunzTarPerm modified mode [ 'foo.js', 420, 438 ]
+1260 silly gunzTarPerm extractEntry LICENSE
+1261 silly gunzTarPerm modified mode [ 'LICENSE', 436, 438 ]
+1262 silly gunzTarPerm extractEntry cli.js
+1263 silly gunzTarPerm modified mode [ 'cli.js', 493, 511 ]
+1264 silly gunzTarPerm extractEntry index.js
+1265 silly gunzTarPerm modified mode [ 'index.js', 420, 438 ]
+1266 silly gunzTarPerm extractEntry install.js
+1267 silly gunzTarPerm modified mode [ 'install.js', 420, 438 ]
+1268 silly gunzTarPerm extractEntry .travis.yml
+1269 silly gunzTarPerm modified mode [ '.travis.yml', 420, 438 ]
+1270 silly gunzTarPerm extractEntry LICENSE.txt
+1271 silly gunzTarPerm modified mode [ 'LICENSE.txt', 420, 438 ]
+1272 silly gunzTarPerm extractEntry .eslintrc
+1273 silly gunzTarPerm modified mode [ '.eslintrc', 420, 438 ]
+1274 silly gunzTarPerm extractEntry bin/phantomjs
+1275 silly gunzTarPerm modified mode [ 'bin/phantomjs', 493, 511 ]
+1276 silly gunzTarPerm extractEntry .eslintignore
+1277 silly gunzTarPerm modified mode [ '.eslintignore', 420, 438 ]
+1278 silly gunzTarPerm extractEntry lib/phantomjs.js
+1279 silly gunzTarPerm modified mode [ 'lib/phantomjs.js', 420, 438 ]
+1280 silly gunzTarPerm extractEntry lib/util.js
+1281 silly gunzTarPerm modified mode [ 'lib/util.js', 420, 438 ]
+1282 silly gunzTarPerm extractEntry .jshintrc
+1283 silly gunzTarPerm modified mode [ '.jshintrc', 420, 438 ]
+1284 silly gunzTarPerm extractEntry test/exit.js
+1285 silly gunzTarPerm modified mode [ 'test/exit.js', 420, 438 ]
+1286 silly gunzTarPerm extractEntry test/loadspeed.js
+1287 silly gunzTarPerm modified mode [ 'test/loadspeed.js', 420, 438 ]
+1288 silly gunzTarPerm extractEntry test/tests.js
+1289 silly gunzTarPerm modified mode [ 'test/tests.js', 420, 438 ]
 1290 silly gunzTarPerm extractEntry History.md
 1291 silly gunzTarPerm modified mode [ 'History.md', 420, 438 ]
 1292 silly gunzTarPerm extractEntry Makefile
 1293 silly gunzTarPerm modified mode [ 'Makefile', 420, 438 ]
-1294 silly gunzTarPerm extractEntry index.js
-1295 silly gunzTarPerm modified mode [ 'index.js', 436, 438 ]
-1296 silly gunzTarPerm extractEntry .travis.yml
-1297 silly gunzTarPerm modified mode [ '.travis.yml', 436, 438 ]
-1298 silly gunzTarPerm extractEntry Makefile
-1299 silly gunzTarPerm modified mode [ 'Makefile', 420, 438 ]
-1300 silly gunzTarPerm extractEntry Readme.md
-1301 silly gunzTarPerm modified mode [ 'Readme.md', 420, 438 ]
-1302 silly gunzTarPerm extractEntry index.js
-1303 silly gunzTarPerm modified mode [ 'index.js', 420, 438 ]
-1304 silly gunzTarPerm extractEntry .editorconfig
-1305 silly gunzTarPerm modified mode [ '.editorconfig', 420, 438 ]
-1306 silly gunzTarPerm extractEntry appveyor.yml
-1307 silly gunzTarPerm modified mode [ 'appveyor.yml', 420, 438 ]
-1308 silly gunzTarPerm extractEntry CHANGELOG.md
-1309 silly gunzTarPerm modified mode [ 'CHANGELOG.md', 420, 438 ]
-1310 silly gunzTarPerm extractEntry README.md
-1311 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
-1312 silly gunzTarPerm extractEntry CHANGELOG.md
-1313 silly gunzTarPerm modified mode [ 'CHANGELOG.md', 420, 438 ]
-1314 silly gunzTarPerm extractEntry lib/index.js
-1315 silly gunzTarPerm modified mode [ 'lib/index.js', 420, 438 ]
-1316 silly gunzTarPerm extractEntry lib/mkdirs/index.js
-1317 silly gunzTarPerm modified mode [ 'lib/mkdirs/index.js', 420, 438 ]
-1318 silly gunzTarPerm extractEntry src/index.js
-1319 silly gunzTarPerm modified mode [ 'src/index.js', 420, 438 ]
-1320 silly gunzTarPerm extractEntry CHANGELOG.md
-1321 silly gunzTarPerm modified mode [ 'CHANGELOG.md', 420, 438 ]
-1322 silly gunzTarPerm extractEntry .travis.yml
-1323 silly gunzTarPerm modified mode [ '.travis.yml', 420, 438 ]
-1324 silly gunzTarPerm extractEntry CONTRIBUTING.md
-1325 silly gunzTarPerm modified mode [ 'CONTRIBUTING.md', 420, 438 ]
-1326 silly gunzTarPerm extractEntry dist/es6-promise.auto.js
-1327 silly gunzTarPerm modified mode [ 'dist/es6-promise.auto.js', 420, 438 ]
+1294 silly gunzTarPerm extractEntry src/index.js
+1295 silly gunzTarPerm modified mode [ 'src/index.js', 420, 438 ]
+1296 silly gunzTarPerm extractEntry CHANGELOG.md
+1297 silly gunzTarPerm modified mode [ 'CHANGELOG.md', 420, 438 ]
+1298 silly gunzTarPerm extractEntry README.md
+1299 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
+1300 silly gunzTarPerm extractEntry appveyor.yml
+1301 silly gunzTarPerm modified mode [ 'appveyor.yml', 420, 438 ]
+1302 silly gunzTarPerm extractEntry CHANGELOG.md
+1303 silly gunzTarPerm modified mode [ 'CHANGELOG.md', 420, 438 ]
+1304 silly gunzTarPerm extractEntry .travis.yml
+1305 silly gunzTarPerm modified mode [ '.travis.yml', 436, 438 ]
+1306 silly gunzTarPerm extractEntry Makefile
+1307 silly gunzTarPerm modified mode [ 'Makefile', 420, 438 ]
+1308 silly gunzTarPerm extractEntry Readme.md
+1309 silly gunzTarPerm modified mode [ 'Readme.md', 420, 438 ]
+1310 silly gunzTarPerm extractEntry CHANGELOG.md
+1311 silly gunzTarPerm modified mode [ 'CHANGELOG.md', 420, 438 ]
+1312 silly gunzTarPerm extractEntry lib/index.js
+1313 silly gunzTarPerm modified mode [ 'lib/index.js', 420, 438 ]
+1314 silly gunzTarPerm extractEntry lib/mkdirs/index.js
+1315 silly gunzTarPerm modified mode [ 'lib/mkdirs/index.js', 420, 438 ]
+1316 silly gunzTarPerm extractEntry dist/es6-promise.auto.js
+1317 silly gunzTarPerm modified mode [ 'dist/es6-promise.auto.js', 420, 438 ]
+1318 silly gunzTarPerm extractEntry index.js
+1319 silly gunzTarPerm modified mode [ 'index.js', 420, 438 ]
+1320 silly gunzTarPerm extractEntry .editorconfig
+1321 silly gunzTarPerm modified mode [ '.editorconfig', 420, 438 ]
+1322 silly gunzTarPerm extractEntry index.js
+1323 silly gunzTarPerm modified mode [ 'index.js', 436, 438 ]
+1324 silly gunzTarPerm extractEntry .travis.yml
+1325 silly gunzTarPerm modified mode [ '.travis.yml', 436, 438 ]
+1326 silly gunzTarPerm extractEntry phantomjs/bridge.js
+1327 silly gunzTarPerm modified mode [ 'phantomjs/bridge.js', 436, 438 ]
 1328 silly gunzTarPerm extractEntry .travis.yml
-1329 silly gunzTarPerm modified mode [ '.travis.yml', 436, 438 ]
-1330 silly gunzTarPerm extractEntry phantomjs/bridge.js
-1331 silly gunzTarPerm modified mode [ 'phantomjs/bridge.js', 436, 438 ]
+1329 silly gunzTarPerm modified mode [ '.travis.yml', 420, 438 ]
+1330 silly gunzTarPerm extractEntry CONTRIBUTING.md
+1331 silly gunzTarPerm modified mode [ 'CONTRIBUTING.md', 420, 438 ]
 1332 silly gunzTarPerm extractEntry lib/mkdirs/mkdirs-sync.js
 1333 silly gunzTarPerm modified mode [ 'lib/mkdirs/mkdirs-sync.js', 420, 438 ]
-1334 silly gunzTarPerm extractEntry .jshintrc
-1335 silly gunzTarPerm modified mode [ '.jshintrc', 420, 438 ]
-1336 silly gunzTarPerm extractEntry .travis.yml
-1337 silly gunzTarPerm modified mode [ '.travis.yml', 420, 438 ]
-1338 silly gunzTarPerm extractEntry test/test.js
-1339 silly gunzTarPerm modified mode [ 'test/test.js', 420, 438 ]
-1340 silly gunzTarPerm extractEntry lib/node-progress.js
-1341 silly gunzTarPerm modified mode [ 'lib/node-progress.js', 420, 438 ]
-1342 silly gunzTarPerm extractEntry Readme.md
-1343 silly gunzTarPerm modified mode [ 'Readme.md', 420, 438 ]
-1344 silly gunzTarPerm extractEntry component.json
-1345 silly gunzTarPerm modified mode [ 'component.json', 420, 438 ]
-1346 silly gunzTarPerm extractEntry dist/es6-promise.auto.map
-1347 silly gunzTarPerm modified mode [ 'dist/es6-promise.auto.map', 420, 438 ]
-1348 silly gunzTarPerm extractEntry dist/es6-promise.auto.min.js
-1349 silly gunzTarPerm modified mode [ 'dist/es6-promise.auto.min.js', 420, 438 ]
-1350 silly gunzTarPerm extractEntry CHANGELOG.md
-1351 silly gunzTarPerm modified mode [ 'CHANGELOG.md', 436, 438 ]
-1352 silly gunzTarPerm extractEntry test/test.js
-1353 silly gunzTarPerm modified mode [ 'test/test.js', 436, 438 ]
-1354 silly gunzTarPerm extractEntry readme.md
-1355 silly gunzTarPerm modified mode [ 'readme.md', 420, 438 ]
+1334 silly gunzTarPerm extractEntry dist/es6-promise.auto.map
+1335 silly gunzTarPerm modified mode [ 'dist/es6-promise.auto.map', 420, 438 ]
+1336 silly gunzTarPerm extractEntry dist/es6-promise.auto.min.js
+1337 silly gunzTarPerm modified mode [ 'dist/es6-promise.auto.min.js', 420, 438 ]
+1338 silly gunzTarPerm extractEntry Readme.md
+1339 silly gunzTarPerm modified mode [ 'Readme.md', 420, 438 ]
+1340 silly gunzTarPerm extractEntry component.json
+1341 silly gunzTarPerm modified mode [ 'component.json', 420, 438 ]
+1342 silly gunzTarPerm extractEntry CHANGELOG.md
+1343 silly gunzTarPerm modified mode [ 'CHANGELOG.md', 436, 438 ]
+1344 silly gunzTarPerm extractEntry test/test.js
+1345 silly gunzTarPerm modified mode [ 'test/test.js', 436, 438 ]
+1346 silly gunzTarPerm extractEntry .jshintrc
+1347 silly gunzTarPerm modified mode [ '.jshintrc', 420, 438 ]
+1348 silly gunzTarPerm extractEntry .travis.yml
+1349 silly gunzTarPerm modified mode [ '.travis.yml', 420, 438 ]
+1350 silly gunzTarPerm extractEntry test/test.js
+1351 silly gunzTarPerm modified mode [ 'test/test.js', 420, 438 ]
+1352 silly gunzTarPerm extractEntry readme.md
+1353 silly gunzTarPerm modified mode [ 'readme.md', 420, 438 ]
+1354 silly gunzTarPerm extractEntry lib/node-progress.js
+1355 silly gunzTarPerm modified mode [ 'lib/node-progress.js', 420, 438 ]
 1356 silly gunzTarPerm extractEntry lib/mkdirs/mkdirs.js
 1357 silly gunzTarPerm modified mode [ 'lib/mkdirs/mkdirs.js', 420, 438 ]
 1358 silly gunzTarPerm extractEntry lib/mkdirs/win32.js
@@ -3402,114 +3402,114 @@
 1367 silly gunzTarPerm modified mode [ 'lib/copy-sync/copy-sync.js', 420, 438 ]
 1368 silly gunzTarPerm extractEntry lib/copy-sync/index.js
 1369 silly gunzTarPerm modified mode [ 'lib/copy-sync/index.js', 420, 438 ]
-1370 silly gunzTarPerm extractEntry lib/empty/index.js
-1371 silly gunzTarPerm modified mode [ 'lib/empty/index.js', 420, 438 ]
-1372 silly gunzTarPerm extractEntry lib/ensure/file.js
-1373 silly gunzTarPerm modified mode [ 'lib/ensure/file.js', 420, 438 ]
-1374 silly gunzTarPerm extractEntry dist/es6-promise.map
-1375 silly gunzTarPerm modified mode [ 'dist/es6-promise.map', 420, 438 ]
-1376 silly gunzTarPerm extractEntry dist/es6-promise.min.js
-1377 silly gunzTarPerm modified mode [ 'dist/es6-promise.min.js', 420, 438 ]
-1378 silly gunzTarPerm extractEntry lib/ensure/index.js
-1379 silly gunzTarPerm modified mode [ 'lib/ensure/index.js', 420, 438 ]
-1380 silly gunzTarPerm extractEntry lib/ensure/link.js
-1381 silly gunzTarPerm modified mode [ 'lib/ensure/link.js', 420, 438 ]
-1382 silly gunzTarPerm extractEntry dist/es6-promise.min.map
-1383 silly gunzTarPerm modified mode [ 'dist/es6-promise.min.map', 420, 438 ]
-1384 silly gunzTarPerm extractEntry lib/es6-promise.auto.js
-1385 silly gunzTarPerm modified mode [ 'lib/es6-promise.auto.js', 420, 438 ]
-1386 silly gunzTarPerm extractEntry lib/es6-promise.js
-1387 silly gunzTarPerm modified mode [ 'lib/es6-promise.js', 420, 438 ]
-1388 silly gunzTarPerm extractEntry lib/es6-promise/-internal.js
-1389 silly gunzTarPerm modified mode [ 'lib/es6-promise/-internal.js', 420, 438 ]
-1390 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\hasha-d587eb27\node_modules is being purged
-1391 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\hasha-d587eb27\node_modules
-1392 silly gunzTarPerm extractEntry lib/ensure/symlink-paths.js
-1393 silly gunzTarPerm modified mode [ 'lib/ensure/symlink-paths.js', 420, 438 ]
-1394 silly gunzTarPerm extractEntry lib/ensure/symlink-type.js
-1395 silly gunzTarPerm modified mode [ 'lib/ensure/symlink-type.js', 420, 438 ]
-1396 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\is-stream-61dbdc2c\node_modules is being purged
-1397 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\is-stream-61dbdc2c\node_modules
+1370 silly gunzTarPerm extractEntry dist/es6-promise.map
+1371 silly gunzTarPerm modified mode [ 'dist/es6-promise.map', 420, 438 ]
+1372 silly gunzTarPerm extractEntry dist/es6-promise.min.js
+1373 silly gunzTarPerm modified mode [ 'dist/es6-promise.min.js', 420, 438 ]
+1374 silly gunzTarPerm extractEntry lib/empty/index.js
+1375 silly gunzTarPerm modified mode [ 'lib/empty/index.js', 420, 438 ]
+1376 silly gunzTarPerm extractEntry lib/ensure/file.js
+1377 silly gunzTarPerm modified mode [ 'lib/ensure/file.js', 420, 438 ]
+1378 silly gunzTarPerm extractEntry dist/es6-promise.min.map
+1379 silly gunzTarPerm modified mode [ 'dist/es6-promise.min.map', 420, 438 ]
+1380 silly gunzTarPerm extractEntry lib/es6-promise.auto.js
+1381 silly gunzTarPerm modified mode [ 'lib/es6-promise.auto.js', 420, 438 ]
+1382 silly gunzTarPerm extractEntry lib/es6-promise.js
+1383 silly gunzTarPerm modified mode [ 'lib/es6-promise.js', 420, 438 ]
+1384 silly gunzTarPerm extractEntry lib/es6-promise/-internal.js
+1385 silly gunzTarPerm modified mode [ 'lib/es6-promise/-internal.js', 420, 438 ]
+1386 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\is-stream-61dbdc2c\node_modules is being purged
+1387 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\is-stream-61dbdc2c\node_modules
+1388 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\hasha-d587eb27\node_modules is being purged
+1389 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\hasha-d587eb27\node_modules
+1390 silly gunzTarPerm extractEntry lib/ensure/index.js
+1391 silly gunzTarPerm modified mode [ 'lib/ensure/index.js', 420, 438 ]
+1392 silly gunzTarPerm extractEntry lib/ensure/link.js
+1393 silly gunzTarPerm modified mode [ 'lib/ensure/link.js', 420, 438 ]
+1394 silly gunzTarPerm extractEntry lib/es6-promise/asap.js
+1395 silly gunzTarPerm modified mode [ 'lib/es6-promise/asap.js', 420, 438 ]
+1396 silly gunzTarPerm extractEntry lib/es6-promise/enumerator.js
+1397 silly gunzTarPerm modified mode [ 'lib/es6-promise/enumerator.js', 420, 438 ]
 1398 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\pend-9b2e14ac\node_modules is being purged
 1399 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\pend-9b2e14ac\node_modules
-1400 silly gunzTarPerm extractEntry lib/es6-promise/asap.js
-1401 silly gunzTarPerm modified mode [ 'lib/es6-promise/asap.js', 420, 438 ]
-1402 silly gunzTarPerm extractEntry lib/es6-promise/enumerator.js
-1403 silly gunzTarPerm modified mode [ 'lib/es6-promise/enumerator.js', 420, 438 ]
-1404 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\rimraf-a0a1d2cc\node_modules is being purged
-1405 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\rimraf-a0a1d2cc\node_modules
-1406 silly gunzTarPerm extractEntry lib/es6-promise/polyfill.js
-1407 silly gunzTarPerm modified mode [ 'lib/es6-promise/polyfill.js', 420, 438 ]
-1408 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\grunt-lib-phantomjs-e0ee4776\node_modules is being purged
-1409 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\grunt-lib-phantomjs-e0ee4776\node_modules
-1410 silly gunzTarPerm extractEntry lib/ensure/symlink.js
-1411 silly gunzTarPerm modified mode [ 'lib/ensure/symlink.js', 420, 438 ]
-1412 silly gunzTarPerm extractEntry lib/json/index.js
-1413 silly gunzTarPerm modified mode [ 'lib/json/index.js', 420, 438 ]
-1414 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\grunt-contrib-qunit-27622f8a\node_modules is being purged
-1415 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\grunt-contrib-qunit-27622f8a\node_modules
-1416 silly gunzTarPerm extractEntry lib/es6-promise/promise.js
-1417 silly gunzTarPerm modified mode [ 'lib/es6-promise/promise.js', 420, 438 ]
-1418 silly gunzTarPerm extractEntry lib/es6-promise/promise/all.js
-1419 silly gunzTarPerm modified mode [ 'lib/es6-promise/promise/all.js', 420, 438 ]
+1400 silly gunzTarPerm extractEntry lib/es6-promise/polyfill.js
+1401 silly gunzTarPerm modified mode [ 'lib/es6-promise/polyfill.js', 420, 438 ]
+1402 silly gunzTarPerm extractEntry lib/ensure/symlink-paths.js
+1403 silly gunzTarPerm modified mode [ 'lib/ensure/symlink-paths.js', 420, 438 ]
+1404 silly gunzTarPerm extractEntry lib/ensure/symlink-type.js
+1405 silly gunzTarPerm modified mode [ 'lib/ensure/symlink-type.js', 420, 438 ]
+1406 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\grunt-contrib-qunit-27622f8a\node_modules is being purged
+1407 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\grunt-contrib-qunit-27622f8a\node_modules
+1408 silly gunzTarPerm extractEntry lib/es6-promise/promise.js
+1409 silly gunzTarPerm modified mode [ 'lib/es6-promise/promise.js', 420, 438 ]
+1410 silly gunzTarPerm extractEntry lib/es6-promise/promise/all.js
+1411 silly gunzTarPerm modified mode [ 'lib/es6-promise/promise/all.js', 420, 438 ]
+1412 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\rimraf-a0a1d2cc\node_modules is being purged
+1413 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\rimraf-a0a1d2cc\node_modules
+1414 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\grunt-lib-phantomjs-e0ee4776\node_modules is being purged
+1415 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\grunt-lib-phantomjs-e0ee4776\node_modules
+1416 silly gunzTarPerm extractEntry lib/ensure/symlink.js
+1417 silly gunzTarPerm modified mode [ 'lib/ensure/symlink.js', 420, 438 ]
+1418 silly gunzTarPerm extractEntry lib/json/index.js
+1419 silly gunzTarPerm modified mode [ 'lib/json/index.js', 420, 438 ]
 1420 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\yauzl-cc6f9b9b\node_modules is being purged
 1421 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\yauzl-cc6f9b9b\node_modules
-1422 silly gunzTarPerm extractEntry lib/json/jsonfile.js
-1423 silly gunzTarPerm modified mode [ 'lib/json/jsonfile.js', 420, 438 ]
-1424 silly gunzTarPerm extractEntry lib/json/output-json-sync.js
-1425 silly gunzTarPerm modified mode [ 'lib/json/output-json-sync.js', 420, 438 ]
-1426 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\jsonfile-b86418f7\node_modules is being purged
-1427 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\jsonfile-b86418f7\node_modules
-1428 silly gunzTarPerm extractEntry lib/es6-promise/promise/race.js
-1429 silly gunzTarPerm modified mode [ 'lib/es6-promise/promise/race.js', 420, 438 ]
-1430 silly gunzTarPerm extractEntry lib/es6-promise/promise/reject.js
-1431 silly gunzTarPerm modified mode [ 'lib/es6-promise/promise/reject.js', 420, 438 ]
-1432 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\klaw-e67c9afd\node_modules is being purged
-1433 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\klaw-e67c9afd\node_modules
-1434 silly gunzTarPerm extractEntry lib/json/output-json.js
-1435 silly gunzTarPerm modified mode [ 'lib/json/output-json.js', 420, 438 ]
-1436 silly gunzTarPerm extractEntry lib/copy/copy.js
-1437 silly gunzTarPerm modified mode [ 'lib/copy/copy.js', 420, 438 ]
-1438 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\progress-72d4908b\node_modules is being purged
-1439 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\progress-72d4908b\node_modules
-1440 silly gunzTarPerm extractEntry lib/es6-promise/promise/resolve.js
-1441 silly gunzTarPerm modified mode [ 'lib/es6-promise/promise/resolve.js', 420, 438 ]
-1442 silly gunzTarPerm extractEntry lib/es6-promise/then.js
-1443 silly gunzTarPerm modified mode [ 'lib/es6-promise/then.js', 420, 438 ]
-1444 silly gunzTarPerm extractEntry lib/es6-promise/utils.js
-1445 silly gunzTarPerm modified mode [ 'lib/es6-promise/utils.js', 420, 438 ]
-1446 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\fd-slicer-89937aad\node_modules is being purged
-1447 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\fd-slicer-89937aad\node_modules
-1448 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\extract-zip-82e0bed1\node_modules is being purged
-1449 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\extract-zip-82e0bed1\node_modules
-1450 silly gunzTarPerm extractEntry lib/copy/index.js
-1451 silly gunzTarPerm modified mode [ 'lib/copy/index.js', 420, 438 ]
-1452 silly gunzTarPerm extractEntry lib/copy/ncp.js
-1453 silly gunzTarPerm modified mode [ 'lib/copy/ncp.js', 420, 438 ]
-1454 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\throttleit-555415e4\node_modules is being purged
-1455 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\throttleit-555415e4\node_modules
+1422 silly gunzTarPerm extractEntry lib/es6-promise/promise/race.js
+1423 silly gunzTarPerm modified mode [ 'lib/es6-promise/promise/race.js', 420, 438 ]
+1424 silly gunzTarPerm extractEntry lib/es6-promise/promise/reject.js
+1425 silly gunzTarPerm modified mode [ 'lib/es6-promise/promise/reject.js', 420, 438 ]
+1426 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\klaw-e67c9afd\node_modules is being purged
+1427 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\klaw-e67c9afd\node_modules
+1428 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\jsonfile-b86418f7\node_modules is being purged
+1429 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\jsonfile-b86418f7\node_modules
+1430 silly gunzTarPerm extractEntry lib/json/jsonfile.js
+1431 silly gunzTarPerm modified mode [ 'lib/json/jsonfile.js', 420, 438 ]
+1432 silly gunzTarPerm extractEntry lib/json/output-json-sync.js
+1433 silly gunzTarPerm modified mode [ 'lib/json/output-json-sync.js', 420, 438 ]
+1434 silly gunzTarPerm extractEntry lib/es6-promise/promise/resolve.js
+1435 silly gunzTarPerm modified mode [ 'lib/es6-promise/promise/resolve.js', 420, 438 ]
+1436 silly gunzTarPerm extractEntry lib/es6-promise/then.js
+1437 silly gunzTarPerm modified mode [ 'lib/es6-promise/then.js', 420, 438 ]
+1438 silly gunzTarPerm extractEntry lib/es6-promise/utils.js
+1439 silly gunzTarPerm modified mode [ 'lib/es6-promise/utils.js', 420, 438 ]
+1440 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\progress-72d4908b\node_modules is being purged
+1441 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\progress-72d4908b\node_modules
+1442 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\fd-slicer-89937aad\node_modules is being purged
+1443 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\fd-slicer-89937aad\node_modules
+1444 silly gunzTarPerm extractEntry lib/json/output-json.js
+1445 silly gunzTarPerm modified mode [ 'lib/json/output-json.js', 420, 438 ]
+1446 silly gunzTarPerm extractEntry lib/copy/copy.js
+1447 silly gunzTarPerm modified mode [ 'lib/copy/copy.js', 420, 438 ]
+1448 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\throttleit-555415e4\node_modules is being purged
+1449 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\throttleit-555415e4\node_modules
+1450 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\extract-zip-82e0bed1\node_modules is being purged
+1451 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\extract-zip-82e0bed1\node_modules
+1452 silly gunzTarPerm extractEntry lib/copy/index.js
+1453 silly gunzTarPerm modified mode [ 'lib/copy/index.js', 420, 438 ]
+1454 silly gunzTarPerm extractEntry lib/copy/ncp.js
+1455 silly gunzTarPerm modified mode [ 'lib/copy/ncp.js', 420, 438 ]
 1456 silly gunzTarPerm extractEntry lib/move/index.js
 1457 silly gunzTarPerm modified mode [ 'lib/move/index.js', 420, 438 ]
 1458 silly gunzTarPerm extractEntry lib/output/index.js
 1459 silly gunzTarPerm modified mode [ 'lib/output/index.js', 420, 438 ]
-1460 silly gunzTarPerm extractEntry lib/remove/index.js
-1461 silly gunzTarPerm modified mode [ 'lib/remove/index.js', 420, 438 ]
-1462 silly gunzTarPerm extractEntry lib/remove/rimraf.js
-1463 silly gunzTarPerm modified mode [ 'lib/remove/rimraf.js', 420, 438 ]
-1464 silly gunzTarPerm extractEntry lib/util/assign.js
-1465 silly gunzTarPerm modified mode [ 'lib/util/assign.js', 420, 438 ]
-1466 silly gunzTarPerm extractEntry lib/util/utimes.js
-1467 silly gunzTarPerm modified mode [ 'lib/util/utimes.js', 420, 438 ]
-1468 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\request-progress-297ee230\node_modules is being purged
-1469 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\request-progress-297ee230\node_modules
+1460 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\request-progress-297ee230\node_modules is being purged
+1461 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\request-progress-297ee230\node_modules
+1462 silly gunzTarPerm extractEntry lib/remove/index.js
+1463 silly gunzTarPerm modified mode [ 'lib/remove/index.js', 420, 438 ]
+1464 silly gunzTarPerm extractEntry lib/remove/rimraf.js
+1465 silly gunzTarPerm modified mode [ 'lib/remove/rimraf.js', 420, 438 ]
+1466 silly gunzTarPerm extractEntry lib/util/assign.js
+1467 silly gunzTarPerm modified mode [ 'lib/util/assign.js', 420, 438 ]
+1468 silly gunzTarPerm extractEntry lib/util/utimes.js
+1469 silly gunzTarPerm modified mode [ 'lib/util/utimes.js', 420, 438 ]
 1470 silly gunzTarPerm extractEntry lib/walk/index.js
 1471 silly gunzTarPerm modified mode [ 'lib/walk/index.js', 420, 438 ]
 1472 silly gunzTarPerm extractEntry lib/walk-sync/index.js
 1473 silly gunzTarPerm modified mode [ 'lib/walk-sync/index.js', 420, 438 ]
-1474 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\kew-229c5a54\node_modules is being purged
-1475 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\kew-229c5a54\node_modules
-1476 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\phantomjs-prebuilt-f48e6dc9\node_modules is being purged
-1477 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\phantomjs-prebuilt-f48e6dc9\node_modules
+1474 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\phantomjs-prebuilt-f48e6dc9\node_modules is being purged
+1475 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\phantomjs-prebuilt-f48e6dc9\node_modules
+1476 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\kew-229c5a54\node_modules is being purged
+1477 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\kew-229c5a54\node_modules
 1478 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\es6-promise-2466225c\node_modules is being purged
 1479 verbose gentlyRm don't care about contents; nuking C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\es6-promise-2466225c\node_modules
 1480 silly gentlyRm C:\Users\jbearega\Projects\reveal.js\node_modules\.staging\fs-extra-c4cbbb81\node_modules is being purged
@@ -3554,8 +3554,8 @@
 1519 silly lifecycle rimraf@2.6.2~preinstall: no script for preinstall, continuing
 1520 silly lifecycle is-stream@1.1.0~preinstall: no script for preinstall, continuing
 1521 silly lifecycle hasha@2.2.0~preinstall: no script for preinstall, continuing
-1522 silly lifecycle kew@0.7.0~preinstall: no script for preinstall, continuing
-1523 silly lifecycle jsonfile@2.4.0~preinstall: no script for preinstall, continuing
+1522 silly lifecycle jsonfile@2.4.0~preinstall: no script for preinstall, continuing
+1523 silly lifecycle kew@0.7.0~preinstall: no script for preinstall, continuing
 1524 silly lifecycle klaw@1.3.1~preinstall: no script for preinstall, continuing
 1525 silly lifecycle fs-extra@1.0.0~preinstall: no script for preinstall, continuing
 1526 silly lifecycle pend@1.2.0~preinstall: no script for preinstall, continuing
@@ -3744,7 +3744,7 @@
 1703 verbose lifecycle phantomjs-prebuilt@2.1.16~install: PATH: C:\Program Files\nodejs\node_modules\npm\bin\node-gyp-bin;C:\Users\jbearega\Projects\reveal.js\node_modules\phantomjs-prebuilt\node_modules\.bin;C:\Users\jbearega\Projects\reveal.js\node_modules\.bin;%PATH%;C:\Program Files\VSCode\bin;c:\Program Files\dotnet\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\PROGRA~1\IBM\SQLLIB\BIN;C:\PROGRA~1\IBM\SQLLIB\FUNCTIO
 1703 verbose lifecycle N;C:\PROGRA~1\IBM\SQLLIB\SAMPLES\REPL;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\SysWOW64\;C:\WINDOWS\SysWOW6
 1703 verbose lifecycle 4\Wbem;C:\WINDOWS\SysWOW64\WindowsPowerShell\v1.0;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr
-1703 verbose lifecycle \bin;C:\Program Files\Microsoft VS Code\bin
+1703 verbose lifecycle \bin;C:\Program Files\VSCode\bin;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\nodejs
 1704 verbose lifecycle phantomjs-prebuilt@2.1.16~install: CWD: C:\Users\jbearega\Projects\reveal.js\node_modules\phantomjs-prebuilt
 1705 silly lifecycle phantomjs-prebuilt@2.1.16~install: Args: [ '/d /s /c', 'node install.js' ]
 1706 silly lifecycle phantomjs-prebuilt@2.1.16~install: Returned: code: 1  signal: null
