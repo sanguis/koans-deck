@@ -6,20 +6,13 @@
 
 		<title>Koans Session</title>
 
-		<link rel="stylesheet" href="css/reveal.css">
-		<link rel="stylesheet" href="css/theme/night.css">
+		<link rel="stylesheet" href="node_modules/reveal.js/dist/reveal.css">
+		<link rel="stylesheet" href="node_modules/reveal.js/dist/theme/night.css">
+		<link rel="stylesheet" href="css/sanguis.css">
 
 		<!-- Theme used for syntax highlighting of code -->
-		<link rel="stylesheet" href="lib/css/zenburn.css">
-
+		<link rel="stylesheet" href=" node_modules/reveal.js/plugin/highlight/zenburn.css">
 		<!-- Printing and PDF exports -->
-		<script>
-			var link = document.createElement( 'link' );
-			link.rel = 'stylesheet';
-			link.type = 'text/css';
-			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
-			document.getElementsByTagName( 'head' )[0].appendChild( link );
-		</script>
 	</head>
 	<body>
 		<div class="reveal">
@@ -29,8 +22,8 @@
 						# Mobbing the Kōans
 
 						Josh Beauregard
-						
-						Sr DevOps and Agile Cultural Architect	
+
+						Sr DevOps and Agile Cultural Architect
 					</textarea>
 				</section>
 			<div class="slides">
@@ -206,24 +199,29 @@ note: [JS](https://github.com/mrdavidlaing/javascript-koans), [.net](https://git
 			</div>
 		</div>
 
-		<script src="lib/js/head.min.js"></script>
-		<script src="js/reveal.js"></script>
+		<script src="node_modules/reveal.js/dist/reveal.js"></script>
+    <script src="node_modules/reveal.js/plugin/zoom/zoom.js"></script>
+		<script src="node_modules/reveal.js/plugin/notes/notes.js"></script>
+		<script src="node_modules/reveal.js/plugin/search/search.js"></script>
+		<script src="node_modules/reveal.js/plugin/markdown/markdown.js"></script>
+		<script src="node_modules/reveal.js/plugin/highlight/highlight.js"></script>
 
-		<script>
-			// More info about config & dependencies:
-			// - https://github.com/hakimel/reveal.js#configuration
-			// - https://github.com/hakimel/reveal.js#dependencies
+    <script>
+
+			// Also available as an ES module, see:
+			// https://revealjs.com/initialization/
 			Reveal.initialize({
-				dependencies: [
-					{ src: 'plugin/markdown/marked.js' },
-					{ src: 'plugin/markdown/markdown.js' },
-					{ src: 'plugin/notes/notes.js', async: true },
-					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
-				],
+				controls: true,
+				center: true,
+				hash: true,
 				progress: true,
 				slideNumber: "h/t",
-				fragments: true
+				fragments: true,
+
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealZoom, RevealNotes, RevealSearch, RevealMarkdown, RevealHighlight ]
 			});
+
 		</script>
 	</body>
 </html>
