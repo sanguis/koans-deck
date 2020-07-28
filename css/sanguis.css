@@ -1,5 +1,11 @@
- .dt {
-  text-align: left; 
+.reveal h2,
+.reveal h3,
+.reveal h1 {
+  color: #d9c69a;
+  text-shadow: -2px -2px #006280
+}
+.dt {
+  text-align: left;
 }
 
 .reveal p.dd {
