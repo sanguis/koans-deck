@@ -5,22 +5,13 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
 		<title>Moberating 101</title>
-		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="node_modules/reveal.js/dist/reveal.css">
 		<link rel="stylesheet" href="css/sanguis.css">
-		<link rel="stylesheet" href="css/theme/moon.css">
+    <link rel="stylesheet" href="node_modules/reveal.js/dist/theme/moon.css" />
 
 		<!-- Theme used for syntax highlighting of code -->
-		<link rel="stylesheet" href="lib/css/zenburn.css">
+		<link rel="stylesheet" href=" node_modules/reveal.js/plugin/highlight/zenburn.css">
 
-		<!-- Printing and PDF exports -->
-		<script>
-			var link = document.createElement( 'link' );
-			link.rel = 'stylesheet';
-			link.type = 'text/css';
-			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
-			document.getElementsByTagName( 'head' )[0].appendChild( link );
-		</script>
-		-->
 	</head>
 	<body>
 		<div class="reveal">
@@ -33,10 +24,8 @@
 
 Josh Beauregard
 
-E Business DevOps Transformation
-	
-Principal Consultant, Infosys					
-						
+DevOps Architect
+
 Note: Welcome to the moberator training, as mentioned to some you are guinea pigs in this training and the first to receive it. Please if you have a question or suggestion write it on a post it so we can talk about it in the end of each section.
 
 
@@ -138,9 +127,9 @@ Note: As a moberator we are always making sure things are moving forward. But th
 
 
 
-## Is someone marginalized? 
+## Is someone marginalized?
 
-Note: We must always be on the look out for that look of pain on someones face. Are they confused? are they feeling stupid? Are the being talked over? How do we redirect the group? to end this? 
+Note: We must always be on the look out for that look of pain on someones face. Are they confused? are they feeling stupid? Are the being talked over? How do we redirect the group? to end this?
 
 
 
@@ -174,7 +163,7 @@ Note: this means finding a space in advance and setting it up right.
 
 
 
-# Experiment! 
+# Experiment!
 
 
 
@@ -225,24 +214,29 @@ Note: My final thoughts are...
 			</div>
 		</div>
 
-		<script src="lib/js/head.min.js"></script>
-		<script src="js/reveal.js"></script>
+		<script src="node_modules/reveal.js/dist/reveal.js"></script>
+    <script src="node_modules/reveal.js/plugin/zoom/zoom.js"></script>
+		<script src="node_modules/reveal.js/plugin/notes/notes.js"></script>
+		<script src="node_modules/reveal.js/plugin/search/search.js"></script>
+		<script src="node_modules/reveal.js/plugin/markdown/markdown.js"></script>
+		<script src="node_modules/reveal.js/plugin/highlight/highlight.js"></script>
 
-		<script>
-			// More info about config & dependencies:
-			// - https://github.com/hakimel/reveal.js#configuration
-			// - https://github.com/hakimel/reveal.js#dependencies
+    <script>
+
+			// Also available as an ES module, see:
+			// https://revealjs.com/initialization/
 			Reveal.initialize({
-				dependencies: [
-					{ src: 'plugin/markdown/marked.js' },
-					{ src: 'plugin/markdown/markdown.js' },
-					{ src: 'plugin/notes/notes.js', async: true },
-					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
-				],
+				controls: true,
+				center: true,
+				hash: true,
 				progress: true,
 				slideNumber: "h/t",
-				fragments: true
+				fragments: true,
+
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealZoom, RevealNotes, RevealSearch, RevealMarkdown, RevealHighlight ]
 			});
+
 		</script>
 	</body>
 </html>
