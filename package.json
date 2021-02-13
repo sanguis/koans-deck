@@ -8,8 +8,8 @@
   "module": "dist/reveal.esm.js",
   "license": "MIT",
   "scripts": {
-    "test": "gulp test",
     "start": "gulp serve",
+    "test": "gulp test",
     "build": "gulp"
   },
   "author": {
