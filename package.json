@@ -1,5 +1,5 @@
 {
-  "name": "reveal.js",
+  "name": "KoansDeck",
   "version": "4.1.0",
   "description": "The HTML Presentation Framework",
   "homepage": "https://revealjs.com",
@@ -22,7 +22,7 @@
     "url": "git://github.com/hakimel/reveal.js.git"
   },
   "engines": {
-    "node": ">=10.0.0"
+    "node": ">=12.0.0"
   },
   "keywords": [
     "reveal",
