@@ -9,8 +9,7 @@
   "license": "MIT",
   "scripts": {
     "start": "gulp serve",
-    "test": "gulp test",
-    "build": "gulp serve"
+    "test": "gulp test"
   },
   "author": {
     "name": "Josh Beauregard",
