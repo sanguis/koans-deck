@@ -1,5 +1,8 @@
 services:
   deck:
     build: .
+    environment:
+      PORT: 5000
     ports:
       - "5000:5000"
+    command: npm start --port $PORT
