@@ -9,6 +9,7 @@
   "license": "MIT",
   "scripts": {
     "start": "gulp serve",
+    "heroku": "gulp serve --port",
     "test": "gulp test"
   },
   "author": {
